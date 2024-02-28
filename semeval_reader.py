@@ -9,13 +9,14 @@ def parse_file_to_list(filename):
             line = line.strip()
 
             if count % 4 == 0:  # satz
-                entry['sentence'] = line[6:-1]
+                entry['sentence'] = line
+                # entry['sentence'] = line[6:-1]
             if count % 4 == 1:  # semantische relation
                 entry['sem_rel'] = line
             if count % 4 == 2:  # kommentar
                 entry['comment'] = line[8:-1]
             if count % 4 == 3:  # leerzeile
-                if entry['sem_rel'] == 'Instrument-Agency(e2,e1)':
+                if entry['sem_rel'] == 'Component-Whole(e1,e2)' or entry['sem_rel'] == 'Component-Whole(e2,e1)':
                     entries.append(entry)
                 entry = {}
 

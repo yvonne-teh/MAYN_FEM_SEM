@@ -6,30 +6,31 @@ client = AsyncOpenAI()
 
 
 async def main(semeval_tuple):
-
-    # ignore sentences with comments?
-    # if semeval_tuple['comment'] is not '' ...
-
-    system = f"""
-    Find the verb of the sentence that describes the relation between the nouns e1 and e2 and return its lemma.
+    # Your existing setup
+    system = """
+    Find the preposition that connects the words e1 and e2.
+    Return only the one preposition that you found.
     """
 
     prompt = semeval_tuple['sentence']
 
-    chat_completion = await client.chat.completions.create(
-        messages=[
-            {
-                "role": "system",
-                        "content": system
-            },
-            {
-                "role": "user",
-                        "content": prompt
-            }
-        ],
-        model="gpt-3.5-turbo-0125",
-    )
-    return chat_completion.choices[0].message.content
+    try:
+        # Set a timeout for the request
+        chat_completion = await asyncio.wait_for(
+            client.chat.completions.create(
+                messages=[
+                    {"role": "system", "content": system},
+                    {"role": "user", "content": prompt}
+                ],
+                model="gpt-3.5-turbo-0125",
+            ),
+            timeout=10.0  # Timeout in seconds
+        )
+        return chat_completion.choices[0].message.content
+    except asyncio.TimeoutError:
+        # Handle the case where the request takes too long
+        print("Request timed out. Skipping...")
+        return 'fail!!'  # Or any other fallback action
 
 
 def extract_verb(sentence):
@@ -49,12 +50,15 @@ def extract_verb(sentence):
 
 
 # tests
-print(extract_verb("to swim"))
-print(extract_verb("swim"))
-print(extract_verb("tolerate"))
-print(extract_verb("swims"))
-print(extract_verb("hissing"))
+def test_stemmer():
+    print(extract_verb("to swim"))
+    print(extract_verb("swim"))
+    print(extract_verb("tolerate"))
+    print(extract_verb("swims"))
+    print(extract_verb("hissing"))
 
+
+print(len(semeval_tuples))
 verb_dict = dict()
 
 # get verb dict
@@ -62,9 +66,16 @@ try:
     for tuple in semeval_tuples:
 
         data = asyncio.run(main(tuple))
+        if data == 'fail!!':
+            continue
+
         print(f"\nSatz: {tuple['sentence']}")
         print("GPT : " + data + "\n")
         verb = extract_verb(data)
+
+        # don't put wrongly returned sentences by GPT in the dict
+        if ' ' in verb:
+            continue
 
         try:
             verb_dict[verb] += 1
@@ -72,3 +83,6 @@ try:
             verb_dict[verb] = 1
 except KeyboardInterrupt:
     pass
+
+
+print(verb_dict)
