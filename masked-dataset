@@ -1,0 +1,1597 @@
+
+MASKED SENTENCE: "The lawsonite was <MASK> in a platinum crucible and the counter-weight was a plastic crucible with metal pieces."
+LABEL: Content-Container
+
+
+MASKED SENTENCE: "This cut blue and white striped cotton <e1>dress</e1> with red bands on the bodice was <MASK> in a <e2>trunk</e2> of vintage Barbie clothing."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The scissors were in a small plastic soap container, next to a bar of soap, and the <e1>box cutters</e1> were <MASK> a <e2>box</e2> next to a bottle of after-shave lotion."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Flowers are nice, but don't last very long and the fruit <MASK> in a fruit <e2>basket</e2> often goes bad."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The tiny <e1>image</e1> of the Renaissance master is <MASK> in a <e2>carafe</e2> of wine in his 1597 oil painting Bacchus, one of his most acclaimed works."
+LABEL: Content-Container
+
+MASKED SENTENCE: Then I swept up the dust, which looked like sawdust, and put it in a plastic container, which was <MASK> in a <e2>cabinet</e2> under the granite counter top.
+LABEL: Content-Container
+
+MASKED SENTENCE: "Indeed, a green or black basalt heart <MASK> scarab was found put inside the <e2>body</e2> in its place."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>key</e1> was <MASK> a <e2>chest</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "To separate the solids at the end of the experiment, the clay was <MASK> in a semi-permeable membrane tubing."
+LABEL: Content-Container
+
+MASKED SENTENCE: "My dog consumed a cellophane bag <MASK> with <e2>dog treats</e2> on Tuesday."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>dress</e1> was <MASK> a <e2>trunk</e2> dated summer of 1938 along with several other dresses from this same period."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A conical <e1>cover</e1> preserved in a <e2>ewer</e2> in Athens <MASK> extremely well with the form of these vessels."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The document is <MASK> in the proper folder as a text."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Fiscus was the treasury of the Roman emperor, so-called because the money was <MASK> in baskets."
+LABEL: Content-Container
+
+MASKED SENTENCE: "<e1>Mobile</e1> lost in the ocean was <MASK> in a cod <e2>belly</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "When you strike someone with a <e1>bottle</e1> full of <e2>carbonated beverage</e2>, apparently a vacuum <MASK> created and then quickly refills, which is somehow capable of breaking the glass."
+LABEL: Content-Container
+
+MASKED SENTENCE: Welding wire is <MASK> in a <e2>pail</e2> and used as an electrode in an automatic or semiautomatic welding operation.
+LABEL: Content-Container
+
+MASKED SENTENCE: "The bomb was concealed in a handcart near the Mar Toma Church, also known as Church of St. Thomas, in the city of Mosul."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>mummy</e1> was originally <MASK> inside a <e2>wooden coffin</e2>, which had deteriorated."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The game was <MASK> in the original packing, unopened and untouched."
+LABEL: Content-Container
+
+MASKED SENTENCE: "They are <MASK> the <e1>solution</e1> in a non-food <e2>refrigerator</e2> to avoid degradation and transfer what is immediately needed to a spray bottle for manual cleaning."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Her clothes were <MASK> in a box with no lid sitting on the next higher step."
+LABEL: Content-Container
+
+MASKED SENTENCE: "In a shocking incident, the <e1>body</e1> of a 10-year-old school boy, a resident of Jaylal Munshi Ka Rasta in Nahargarh area, was found <MASK> a <e2>sack</e2> with his mouth glued with feviquick on the railway tracks near Chanani Railway Station in Niwai area of Tonk district on Thursday evening."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The blue plastic <e1>cutting board</e1> behind it was <MASK> in a <e2>box</e2> lot I bought at an auction."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>stomach</e1> was <MASK> full of fine <e2>gravel</e2> and small seeds."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The body is already removed for an autopsy and <MASK> in a lead <e1>coffin</e1>, which is put inside a wooden <e2>case</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A sailing <MASK> ship is scratched in a <e2>jug</e2> marked 'G. Goodale, Hartford.'"
+LABEL: Content-Container
+
+MASKED SENTENCE: "The plane was <MASK> a crate and then put on a Flatbed truck and taken to the SAR Hangar."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The tea was in a glass with pink flowers on the rim, served on a small porcelain plate with a European pastoral scene of a man in knee britches holding hands with a woman in a long dress."
+LABEL: Content-Container
+
+MASKED SENTENCE: "I carried a <e1>bag</e1> with <MASK> <e2>condoms</e2> in it, and I gave them out."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The handbag was <MASK> in a glass display case."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The body was inside a duffel bag that was secured with duct tape."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The pontiff's <e1>body</e1> was <MASK> in a plain <e2>cypress coffin</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "He was generous enough to bring a <e1>hamper</e1> <MASK> with festive <e2>goodies</e2> for one of you lot to win."
+LABEL: Content-Container
+
+MASKED SENTENCE: "When it was ready, my <e1>coffee</e1> arrived in a <MASK>mug</e2> instead of to go as I had ordered it."
+LABEL: Content-Container
+
+MASKED SENTENCE: "We've even included a beautiful Royal Scot Crystal Hogget decanter to round off this bountiful banquet <MASK> a hamper basket."
+LABEL: Content-Container
+
+MASKED SENTENCE: The sugar was <MASK> in a cabinet above the sink.
+LABEL: Content-Container
+
+MASKED SENTENCE: "He carried with him an old wicker <e1>basket</e1> <MASK> stale <e2>biscuits</e2>, some cured ham, and a bottle full of goat's milk."
+LABEL: Content-Container
+
+MASKED SENTENCE: "My little brother's <e1>tooth</e1> was <MASK> in a <e2>cup</e2> of water the other day and I nearly fainted when I saw it."
+LABEL: Content-Container
+
+MASKED SENTENCE: "My <e1>passport</e1> <MASK> in a <e2>trunk</e2> under my bed."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>packet</e1> of corn tortillas, which was inside a <e2>box</e2>, <MASK> "contains wheat"."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A comb was <MASK> in an envelope at the bottom of a paper folder stuck to the wall."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>fridge</e1> was <MASK> in a <e2>mahogany case</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "This <e1>bag</e1> was <MASK> in a <e2>bin</e2> with other santa bags (out of package)."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The freshness of <e1>ale</e1> in a <MASK> is the limiting factor."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>sample</e1> was <MASK> in a 5-mm <e2>glass tube</e2> surrounded by oscillator and receiver coils at right angles to one another."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Unfortunately, Cleo the <e1>stuffed dog</e1> was <MASK> in a <e2>trunk</e2> that was stolen back in 1975."
+LABEL: Content-Container
+
+MASKED SENTENCE: "She gave him a <e1>bottle</e1> <MASK> with wine in it."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Inside, the <e1>poster</e1> was enclosed in tight plastic <MASK>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The mast was folded up accordion-style inside a canister that was attached to the side of the main antenna."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A <e1>suitcase</e1> full of <e2>marihuana</e2> was discovered by the pilot of a searching helicopter near the side of the road where tire tracks could be observed pulling off the edge of the road."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>fluid</e1> being held by the <e2>cup</e2>, and was intended for use as a lotion by her husband."
+LABEL: Content-Container
+
+MASKED SENTENCE: "We saw that a <e1>piece</e1> of the double stent was <MASK> inside the urinary bladder of mice to study the extent of tissue reaction."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The only <e1>ginger</e1> I had was <MASK> in a <e2>jar</e2>, so I put a heaping teaspoon in."
+LABEL: Content-Container
+
+MASKED SENTENCE: "I got the idea after receiving a <e1>bottle</e1> with an <e2>apple</e2> in it as a gift from a cousin."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>box</e1> <MASK> a <e2>dollar bill</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The mission introduced the spoon bowl, a <MASK> plastic container with dehydrated food inside."
+LABEL: Content-Container
+
+MASKED SENTENCE: "His <e1>shoes</e1> were <MASK> in a <e2>box</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "I've got the <e1>world</e1> <MASK> in a <e2>jug</e2>, the stopper's in my hand."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>message</e1> was <MASK> in a <e2>paper</e2> that was folded and sealed."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The anthrax was <MASK> in a suitcase that the Egyptian was supposed to deliver to someone in Canada."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>chair</e1> was <MASK> in a <e2>crate</e2> and then completely wrapped in cellophane and then bubble wrap."
+LABEL: Content-Container
+
+MASKED SENTENCE: "This is movingly symbolised in the film in the way that people's homes were bare, all their memories and <e1>pictures</e1> were <MASK> in a <e2>box</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "We <MASK> the tops for the containers in a shallow <e2>drawer</e2> to reduce the clutter."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The frame <MASK> a <e1>picture</e1> on the wall in my living room, reminding me that I'm the only child of three to be born and live to my parents."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The wine was <MASK> in a wine rack so the cork has been wet to prevent the wine from turning to vinegar."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>list</e1> of passengers and crew, handed to the purser just before the steamer left Providence, was <MASK> in a s<e2>safe</e2>, and it was not recovered."
+LABEL: Content-Container
+
+MASKED SENTENCE: "In her dentist dad's office, with the help of her brother Norman she finds a <e1>bottle</e1> <MASK> pulled <e2>teeth</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "My <e1>guns</e1> are <MASK> in my <e2>room</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The winner has received the years worth of a hamper <MASK> with beauty products."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A <e1>weapon</e1> was <MASK> inside a <e2>wooden box</e2> behind a stereo cabinet that <MASK> suspended about seven feet above the floor."
+LABEL: Content-Container
+
+MASKED SENTENCE: "On the table, a potato slice was already <MASK> in a <e2>beaker</e2> of distilled water."
+LABEL: Content-Container
+
+MASKED SENTENCE: "My grandmother arrived here at 17 years old with nothing but a <e1>suitcase</e1> <MASK> <e2>oranges</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A <e1>metal cube</e1>, one meter on each side, is enclosed in a thermally insulating <MASK>."
+LABEL: Content-Container
+
+MASKED SENTENCE: An Israeli woman mistakenly discarded a <e1>mattress</e1> <MASK> <e2>money</e2> inside, setting off a frantic search through tons of garbage at a number of landfill sites.
+LABEL: Content-Container
+
+MASKED SENTENCE: "The memory is <MASK> in the same neurons that responded to the odor."
+LABEL: Content-Container
+
+MASKED SENTENCE: "This set of buttons comes with the colorful printed paper <e1>insert</e1> <MASK> inside of the gum <e2>machine</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "When a <e1>bottle</e1> <MASK> <e2>honey</e2> was weighed, its weight was 1 kilogram."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Here is a detective story involving some scientists and their efforts to explain the origins of a mysterious garment <MASK> in a <e2>reliquary</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>information</e1> was <MASK> inside a sealed <e2>packet</e2>, so purchasers may not have known they could not enter the competition."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The weight of the <e1>pharmaceutical</e1> <MASK> in a <e2>capsule</e2> is dependent on the volume of the channel in the dosage plate and the density of the pharmaceutical."
+LABEL: Content-Container
+
+MASKED SENTENCE: "My chihuahua ate a <e2>bag</e2> <MASK> tea of green tea within the last two hours."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Her <e1>diamonds</e1> are <MASK> in a <e2>safe deposit box</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Scientists <MASK> the <e1>bones</e1> in a <MASK><e2>freezer</e2>, helping to preserve the remaining DNA that has been exposed to soil for three decades."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The clay model was <MASK> in a <e2>jar</e2> wrapped in a Daily Mirror from 1947."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Given the choice, I much prefer to have products with natural ingredient than a <e1>bottle</e1> <MASK> <e2>chemicals</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The pouch <MASK> a small stubby rod looking somewhat like a pencil but made of antler."
+LABEL: Content-Container
+
+MASKED SENTENCE: "All I had left were two pairs of shorts, one pair of underwear, a pair of slippers, a purse, and a <e1>suitcase</e1> <MASK> with some important <e2>papers</e2> in it."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>lithium</e1> was <MASK> in a <e2>stainless steel tray</e2> in two semicircular halves at the bottom of the vacuum vessel."
+LABEL: Content-Container
+
+MASKED SENTENCE: "We <MASK> raw <e1>eggs</e1> in a <e2>dish</e2> in the fridge for too long."
+LABEL: Content-Container
+
+MASKED SENTENCE: "It's a <e1>serpent</e1> that <MASK> in the <e2>cradle</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The man was bluffing because the bomb was <MASK> in a can of orange juice that had been served by the airline itself."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>Ark</e1> was <MASK> in a <e2>cave</e2> beneath the Temple Mount in the very heart of Israel."
+LABEL: Content-Container
+
+MASKED SENTENCE: "There wasn't wireless internet, but a <e1>network cord</e1> <MASK> in the <e2>desk</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The drugs were <MASK> in a box."
+LABEL: Content-Container
+
+MASKED SENTENCE: "He sent his love a letter <MASK> <e2>confetti hearts</e2> inside of the letter so they pour out everywhere when his sweetheart opens it."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The envelope <MASK> a DVD of her mother."
+LABEL: Content-Container
+
+MASKED SENTENCE: "In the Western Province the <e1>starch</e1> is <MASK> in woven palm leaf <e2>bundles</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "One of the robberes opened a red bag and took all the <e1>money</e1> that was <MASK> in the <e2>desk</e2> and drawers, ordered the workers to lie down on the floor and took a substantial amount of money with them."
+LABEL: Content-Container
+
+MASKED SENTENCE: "When I came, the second <e1>group</e1> of popcorn kernels was <MASK> in the <e2>refrigerator</e2>, and the third group was stored in the freezer."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>body</e1> of a missing Fort Benning soldier was <MASK> inside a piece of air conditioning equipment Friday at a downtown hotel."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The charger was <MASK> in the suitcase that was lost by the airline."
+LABEL: Content-Container
+
+MASKED SENTENCE: "All of the <e1>data</e1> is <MASK> in a Microsoft Access database."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The flour was <MASK> in a bin about six feet square, by four feet high, and only a small round hole at the top."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>bomb</e1> was <MASK> inside a <e2>box</e2> fitted with an electronic detonator."
+LABEL: Content-Container
+
+MASKED SENTENCE: "I kept a spray bottle <MASK> vinegar in it."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>frame</e1> <MASK> a rectangular <e2>picture</e2> that has the same area as the frame itself."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The marijuana in the bed was <MASK> in a suitcase."
+LABEL: Content-Container
+
+MASKED SENTENCE: "To the left is drinking <MASK> equipment, sitting in a wooden <e2>box</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Each warrior carries a sime, or spatulate-shaped sword, in a leather sheath, and bears a bow and <e1>quiver</e1> <MASK> poisoned <e2>arrows</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The sichuan <e1>pepper</e1> I got was <MASK> in a <e2>jar</e2> labeled "Prickly Ash", which is the name of the plant."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The Seville side had just <MASK> 2-1 behind at home to fellow relegation strugglers Athletic Bilbao when a bottle full of liquid flew out of the stands and struck visiting keeper Armando Ribeiro just below the right eye."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>litho</e1> was <MASK> in <e2>plastic</e2> and is like new."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A newborn <e1>baby</e1> was <MASK> stuffed in a <e2>shoebox</e2> and dumped in the lobby of a Long Island apartment building."
+LABEL: Content-Container
+
+MASKED SENTENCE: First we put baking soda in a balloon then we attached the balloon to the top of a bottle <MASK> vinegar in it.
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>drawer</e1> <MASK> "a <e2>phial</e2> of some tincture, a paper of some salt, and a record of a series of experiments"."
+LABEL: Content-Container
+
+MASKED SENTENCE: "And the <e1>beer</e1> was <MASK> in a <e2>mug</e2>, and full to the brim."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>kit</e1> was <MASK> in a <e2>box</e2> that measured about 18x11x3.5 inches."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A very small <e1>pile</e1> of soft green hay was <MASK> a <e2>bin</e2> in a corner of their downstairs room."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The waiter brings a <e1>bottle</e1> <MASK> <e2>wine</e2> and pours a small amount in the glass for tasting."
+LABEL: Content-Container
+
+MASKED SENTENCE: "When shown the location of the drugs, the investigators noted that the drugs were <MASK> in a <e2>box</e2> in a closet, and were not stored in a securely locked, substantially constructed cabinet, as required."
+LABEL: Content-Container
+
+MASKED SENTENCE: "His <e1>body</e1> was <MASK> inside a <MASK> in the Jumeirah Carlton Tower Hotel in upmarket Knightsbridge."
+LABEL: Content-Container
+
+MASKED SENTENCE: "One <e1>flyer</e1> was <MASK> in a <e2>box</e2> of Cracker Jacks at a Hughes Market."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Appellant's only challenge to the application of the plain view doctrine is that because the <e1>marijuana</e1> was <MASK> in a <e2>jar</e2> in the freezer compartment it was not in "plain view.""
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>tortoise</e1> that had been placed in the box the night before was <MASK> in a <e2>box</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>money</e1> was <MASK> in an air-conditioning system's <e2>return duct</e2>, which conveniently connected to the room behind."
+LABEL: Content-Container
+
+MASKED SENTENCE: "It carried 1500 gallons of water in its split saddle tanks and 700 gallons of fuel oil <MASK> in a <e2>bunker</e2> behind the cab."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>explosives</e1> were <MASK> a <e2>box</e2> covered by sheet metal, while the wooden handle and fuse were those of the stick hand grenade."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The handwritten note was <MASK> inside a plastic baggy."
+LABEL: Content-Container
+
+MASKED SENTENCE: "When a <e1>bottle</e1> <MASK> <e2>air</e2> is opened under water, the water will not enter the bottle."
+LABEL: Content-Container
+
+MASKED SENTENCE: "We <MASK> a bowl of delicious <e1>soup</e1> in a <e2>dish</e2> of ivory china."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A Boy Scout in North Carolina found a purse <MASK> money in it."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>agar</e1> was <MASK> in a <e2>polyethylene tube</e2> 3,O mm inside diameter and about 1 mm of agar protruded."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>pendant</e1> <MASK> a tumbled <e2>stone</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "They still <MASK> the <e1>bottle</e1> in a chilling <e2>bucket</e2> or the refrigerator."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>grenade</e1> was <MASK> inside a <e2>tin</e2> alongside the hotel fence."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The water was <MASK> in a cup."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A sample was <MASK> in a <e2>polyethylene bag</e2> and irradiated together with cobalt as a neutron flux determinant."
+LABEL: Content-Container
+
+MASKED SENTENCE: "I sent you a <e1>suitcase</e1> with <MASK> <e2>cash</e2> in it so you can fill it up with wine gummies."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Also missing was a 38 caliber Smith & Wesson <e1>gun</e1> that was <MASK> in a <e2>suitcase</e2> in the tractor."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The device was <MASK> in a small jiffy bag with a white label, with a post mark that was 'not local'."
+LABEL: Content-Container
+
+MASKED SENTENCE: "He came back 15 minutes later with a bottle <MASK> three lizards in it."
+LABEL: Content-Container
+
+MASKED SENTENCE: "As we were leaving the house, we discovered a <e1>suitcase</e1> <MASK> three or four Jordanian <e2>passports</e2> in it, clothes, and hygiene gear."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The frozen spread was <MASK> in a <e2>sack</e2> in a former pony stable nearly a century after Captain Robert Scott's mission to the South Pole."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The nitric oxide was <MASK> in a large gold-plated cylinder in which it was ionized by krypton resonance radiation."
+LABEL: Content-Container
+
+MASKED SENTENCE: "I liked how his D cells were <MASK> in a behind the counter, with no prices on them, as if they were contraband or moonshine."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A basket such as you mention <MASK> four ears of corn."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A pack <MASK> the most popular <e2>cigarettes</e2> in the Seychelles in 2008 cost $15 at purchasing-power parity (PPP)."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The iron tablets were <MASK> in a box on the floor."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The next shot displays only a <e1>suitcase</e1> <MASK> neatly folded <e2>clothes</e2> in it on the bed."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Her naked and decomposing body was <MASK> inside a locked cupboard in an Auckland building."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The teacher retirement poem on parchment is a customized poem printed on parchment and <MASK> in a black <e2>certificate holder</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A man is facing charges after police pulled him from a tank under a women's <e1>toilet</e1> that was <MASK> with human <e2>waste</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Officials got a warning from the victim's son: his 87-year-old father 'hoarded' and the house <MASK> full of items</MASK>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "He made his way inside, where the <e1>jewelry</e1> was <MASK> in a <e2>safe</e2> for the night."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Two children discovering a <e1>suitcase</e1> with <MASK> <e2>bones</e2> in a Queens park."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The goal of the study was to determine the percentage of adult Americans who <MASK> <e1>money</e1> in a regular <e2>savings account</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Our water froze and <e1>batteries</e1> <MASK> in <e2>pockets</e2> got cold."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>box</e1> <MASK> an entire <e2>legacy</e2> of her life and the lives of those she had known and loved."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>information</e1> on the recorded talks is <MASK> in the <e2>database</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The contents of the <e1>package</e1> <MASK> one opened individual <e2>candy bar wrapper</e2>, four unopened candy bar wrappers, one cardboard tray insert, and two cash register receipts."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Rather, the entrails <MASK> mostly apples and corn."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>envelope</e1> <MASK> an important intelligence <e2>discovery</e2> of the war."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>kitchen</e1> <MASK> patient <e2>drinks</e2> and snacks."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>box</e1> <MASK> the jumbled <e2>skeletal remains</e2> of what appeared to be sheep, as well as a variety of other mammals."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Paul Powell wasn't the only public figure in Illinois to <MASK> money in a <e2>shoe box</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "That's all <e1>paper</e1> <MASK> in a <e2>binder</e2> by the door of the room."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A letterbox is a plastic, screw-top bottle that <MASK> a small <e2>notebook</e2> and a unique rubber stamp."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>shelves</e1> <MASK> <e2>books</e2> with sinister-sounding titles, such as Crime and Punishment, Days of Wrath, Death Walks Among You and a few others."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The crypt <MASK> the tomb of St Paul but the altar had hidden it."
+LABEL: Content-Container
+
+MASKED SENTENCE: "I <MASK> some <e1>candy</e1> in my <e2>underwear</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The bag <MASK> books, a cell phone and notepads."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>contents</e1> of the bag <MASK> numerous <e2>flyers</e2> from other conference sponsors and exhibitors and some useful stationery supplies."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>room</e1> <MASK> <e2>radioactive materials</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Since I was a teacher, the <e1>boxes</e1> <MASK> <e2>books</e2> I was bringing for the students to improve their English."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>box</e1> <MASK> our <e2>pool equipment</e2> perfectly."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Eight rooms surround a central square room that <MASK> the mortal <e2>remains</e2> of Bibi Pari."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The record was a <e1>sheet</e1> of paper <MASK> in a <e2>file cabinet</e2> or an image on microform."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>bowl</e1> <MASK> <e2>apples</e2>, pears, and oranges."
+LABEL: Content-Container
+
+MASKED SENTENCE: "One in four Americans <MASK> coins in a <e2>jar</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "This experiment is carried out with an <e1>aqueous solution</e1> of a strong acid <MASK> inside a <e2>flask</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The other contents of the <e1>suitcase</e1> <MASK> <e2>gym shoes</e2>, dirty sweat socks, Limburger cheese, scented oils, and a severely poop stained Armani suit."
+LABEL: Content-Container
+
+MASKED SENTENCE: Among the contents of the <e1>vessel</e1> <MASK> a set of carpenter's <e2>tools</e2>, several large storage jars, ceramic utensils, ropes and remnants of food, as well as a heavy load of ballast stones.
+LABEL: Content-Container
+
+MASKED SENTENCE: "The bomb was <MASK> in a suitcase and was planted by two men."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>kitchen</e1> <MASK> basic items such as <e2>salt</e2>, pepper and olive oil."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Among the contents of the bag <MASK> a diamond ring worth $2000 and a watch worth $500."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The worms are <MASK> in a box with bedding made from such materials as straw, grass clippings, or shredded paper."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>fruit basket</e1> <MASK> <e2>apples</e2>, oranges and bananas."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The contents of the <e1>binder</e1> <MASK> <e2>handouts</e2> on lectures, lab exercises, assignments, as well as production information of use to the participants."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The total <e1> contents </e1> of the purse <MASK> a <e2> cell phone </e2> and wallet valued at $120."
+LABEL: Content-Container
+
+MASKED SENTENCE: Bevan opens a case on the other side of the room and pulls out a flask that contains <MASK> ale of the best sort.
+LABEL: Content-Container
+
+MASKED SENTENCE: "After the cashier <MASK> the <e1>cash</e1> in a <e2>bag</e2>, the robber saw a bottle of scotch that he wanted behind the counter on the shelf."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A tokamak is a toroidal (doughnut shape) <e1>magnetic bottle</e1> that <MASK> the <e2>fusion plasma</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Now, I have a plastic <e1>bottle</e1> that <MASK> <e2>alcohol</e2> in which I put my artificial eyelashes at night when I take them off, to clean them and keep them safe."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>box</e1> <MASK> all our <e2>empty promises</e2> to give back, to help others, to do something worthwhile - if only we weren't so busy."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>air</e1> <MASK> in the <e2>jar</e2> started circulating to the rest of the room."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The painting was <MASK> in a crate from which it had not been unpacked since its return from an exhibition in Oklahoma City a year ago."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>note</e1> was <MASK> inside a quart size plastic <e2>ziplock bag</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The oil was <MASK> in a massive tank in the basement storage room."
+LABEL: Content-Container
+
+MASKED SENTENCE: "In philosophy, the <e1>brain</e1> <MASK> in a <e2>vat</e2> is an element used to draw out certain features of our ideas of knowledge."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Science and faith collide when a <e1>bottle</e1> <MASK> flowing green <MASK> <e2>goo</e2> is determined to NOT be dormitory food, but something altogether more sinister."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>weapon</e1> was <MASK> in what appears to be a <e2>mobile phone</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "I <MASK> a with 5 <e2>fentermine</e2> in it yesterday."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A small supply of butter was <MASK> in a <e2>jar</e2> that stood on the hearth, and the eggs were kept in a basket that hung on a peg nearby."
+LABEL: Content-Container
+
+MASKED SENTENCE: "In Japan I was able to bring a <e1>bottle</e1> <MASK> with <e2>water</e2> in it through security on my way to Singapore."
+LABEL: Content-Container
+
+MASKED SENTENCE: Although the guards searched his car and opened a suitcase <MASK> <e2>tracts</e2> in it they did not notice the illegal materials.
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>stamp</e1> was <MASK> in a <e2>box</e2> for a double pack."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The tray is also used to <MASK> the cutlery in a kitchen drawer."
+LABEL: Content-Container
+
+MASKED SENTENCE: "We had breakfast and the <e1>chai</e1> was <MASK> a <e2>glass</e2> which I found a little strange."
+LABEL: Content-Container
+
+MASKED SENTENCE: Many of the <e1>ingredients</e1> <MASK> in a gourmet <e2>basket</e2> are vaguely familiar, but they have been taken to the ultimate level in luxury.
+LABEL: Content-Container
+
+MASKED SENTENCE: "<e1>Ferrets</e1> <MASK> in a <e2>sack</e2> show more politesse."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The green <e1>suitcase</e1> was inside a larger tan <e2>suitcase</e2>, which also <MASK> a set of baby rosary beads, a religious picture, a picture of a 5-year-old girl and a card that read "Birthday Prayer"."
+LABEL: Content-Container
+
+MASKED SENTENCE: "They went to the mall where my <e1>wallet</e1> was <MASK> in a <e2>safe</e2> that very few people knew how to open, but they persevered."
+LABEL: Content-Container
+
+MASKED SENTENCE: "This is usually achieved by <MASK> the <e1>ball</e1> in a wire <e2>basket</e2> or container that substantially conforms to the shape of the ball."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A passenger was taken into custody after trying to bring a <e1>suitcase</e1> <MASK> <e2>cocaine</e2> onto a plane at Philadelphia International Airport."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>bathtub</e1> <MASK> <e2>books</e2>, and extra space became paramount."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The fine powder was loaded into a rubber bag of 3/4" diameter and the bag was <MASK> in a stainless or plastic <e2>sheath</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "An aborted 7-month-old <e1>fetus</e1> was <MASK> in a gift <e2>box</e2> below a Christmas tree."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The glass bottle was <MASK> in a wire mesh basket in case of explosion."
+LABEL: Content-Container
+
+MASKED SENTENCE: "My <e1>mint julep</e1> was <MASK> in a <e2>glass</e2> I still own."
+LABEL: Content-Container
+
+MASKED SENTENCE: "When departing on the walk, our guide provided one of our group with a <e1>bottle</e1> <MASK> twenty <MASK> <e2>re-hydration tablets</e2> in it."
+LABEL: Content-Container
+
+MASKED SENTENCE: An i-Button is a globally unique computer chip <MASK> in a 16mm steel case.
+LABEL: Content-Container
+
+MASKED SENTENCE: "He was shocked to find that the mixes were <MASK> in a <e2>box</e2> in his garage that was in mortal danger because rats had used it for nesting."
+LABEL: Content-Container
+
+MASKED SENTENCE: "I have a large <e1>garbage bag</e1> full of <e2>clothes</e2> for a teen or preteen girl."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The hamper <MASK> high-quality sweet biscuits, chocolates, cakes and puddings, shortbread, pickles, teas, and wine."
+LABEL: Content-Container
+
+MASKED SENTENCE: "I had a trash bag full of clothes and a suitcase <MASK> beer."
+LABEL: Content-Container
+
+MASKED SENTENCE: "This <e1>crabmeat</e1> was <MASK> a <e2>can</e2>, but it was in the refrigerator case in the seafood section, not in the grocery aisle by the tuna."
+LABEL: Content-Container
+
+MASKED SENTENCE: "When he arrived at 1 p.m., the poor <e1>animal</e1> was <MASK> in a <e2>crate</e2> for five hours."
+LABEL: Content-Container
+
+MASKED SENTENCE: "This is a small glass bottle <MASK> with <e2>iodine crystals</e2> in it."
+LABEL: Content-Container
+
+MASKED SENTENCE: "When it arrived, the <e1>kapok fiber</e1> was <MASK> in vinyl <e2>plastic packets</e2> to prevent exposure to the water."
+LABEL: Content-Container
+
+MASKED SENTENCE: His <e1>collection</e1> of sunglasses was <MASK> in a cabinet against one of the walls.
+LABEL: Content-Container
+
+MASKED SENTENCE: "The wallet <MASK> a special BK <e2>dollar bill</e2> (legal tender), a $5 BK gift card and other random BK stuff."
+LABEL: Content-Container
+
+MASKED SENTENCE: "When I opened the box, the <e1>cheesecake</e1> was <MASK> inside a silver foil."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Some of that <e1>blood</e1> was <MASK> in a <e2>bottle</e2> in the operating room though the record is not clear as to how it got there."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The bomb was <MASK> in the gas tank of a motorcycle."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The money was <MASK> in a suitcase."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>dog</e1> was <MASK> in a <e2>crate</e2> 0.2 cubic inches too small."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>games</e1> <MASK> in a <e2>box</e2> that had a $3 sticker on it, so I thought the games were all $3 each."
+LABEL: Content-Container
+
+MASKED SENTENCE: "He was surprised to discover that the <e1>suitcase</e1> <MASK> black-and-white <MASK> <e2>photographs</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "In the center ring is a <e1>bottle</e1> <MASK> with mystic <e2>ingredients</e2> in it."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Growers <MASK> the <e1>tubers</e1> in a perforated plastic bag filled with peat moss or vermiculite in a cool, dark place."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The toy was <MASK> in a box and had been left on the minivan."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Pulling out a <e1>bottle</e1> <MASK> with purple fluid in it, he smiled."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A federal jury has seen video of a former Louisiana congressman accepting a suitcase <MASK> with $100000 in <e2>cash</e2> outside a northern Virginia hotel."
+LABEL: Content-Container
+
+MASKED SENTENCE: "It <MASK> 1500 gallons of <e1>water</e1> in its split saddle <e2>tanks</e2> and 700 gallons of fuel oil in a bunker behind the cab."
+LABEL: Content-Container
+
+MASKED SENTENCE: "In my case the <e1>disk</e1> was <MASK> inside a <e2>jewel case</e2> which was itself inside the mailing box."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The sword was <MASK> in a case full of gold and jewels."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The first aid <e1>pouch</e1> <MASK> a <e2>package</e2> of sulfa powder and a bandage to dress the wound."
+LABEL: Content-Container
+
+MASKED SENTENCE: "On Saturday in California a <e1>suitcase</e1> was <MASK> inside a trash <e2>receptacle</e2> with a corpse stuffed inside of it."
+LABEL: Content-Container
+
+MASKED SENTENCE: Inside the car, keys were found in the ignition and Codario-Ferrino's <e1>license</e1> was <MASK> inside a <MASK> on the passenger's seat.
+LABEL: Content-Container
+
+MASKED SENTENCE: "We sealed up a <e1>bottle</e1> that <MASK> <e2>air</e2> and put it in a freezer for 15 to 30 minutes."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>bust</e1> was <MASK> in a <e2>suitcase</e2> and was carried into the building with as much reverence as if it had been the bier of the poet."
+LABEL: Content-Container
+
+MASKED SENTENCE: "At noon the <e1>money</e1> was <MASK> in the <e2>desk</e2>, and in the evening the pocket book that contained the money, was left in the drawer with 40 cents, but $265 was missing."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The percussionist rattled a Nalgene <e1>bottle</e1> <MASK> with uncooked <e2>popcorn</e2> in it."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>evidence</e1> <MASK> in a <e2>box</e2> in his patrol car, and started walking back toward it was <MASK>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The grenade was <MASK> inside a sock Sunday morning."
+LABEL: Content-Container
+
+MASKED SENTENCE: "We <MASK> the <e1>information</e1> in a <e2>database</e2> in a secure environment at our data center."
+LABEL: Content-Container
+
+MASKED SENTENCE: "I have ruined the outside, when I mistakenly used a bottle <MASK> soap instead of water."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A small steel <e1>cube</e1> was <MASK> in a <e2>block</e2> of coal in Austria."
+LABEL: Content-Container
+
+MASKED SENTENCE: "I love to sup an <e1>ale</e1> <MASK> from a <e2>tankard</e2> by a blazing fire on a coldly day."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Finally, they found out that the <e1>letter</e1> was <MASK> in a <e2>trunk</e2> in her mother's attic."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>key</e1> was <MASK> inside a <e2>planter thing</e2> we had hanging near the door."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>fueltruck</e1> was <MASK> in a large <e2>box</e2> to ensure that any spilled diesel would be contained."
+LABEL: Content-Container
+
+MASKED SENTENCE: "After the <e1>snake</e1> was <MASK> in a <e2>jar</e2> for a few minutes, it ceased the letisimulatory posturing and appeared normal."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The 2 in 1 shampoo and conditioner was <MASK> in a bottle fixed on the shower wall."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>foot</e1> was <MASK> inside a white Nike running shoe."
+LABEL: Content-Container
+
+MASKED SENTENCE: "We <MASK> the <e1>cards</e1> in a matching <e2>box</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>pizza</e1> was <MASK> in a large, recyclable <e2>cardboard box</e2>, and the sugar was packaged in a recyclable paper bag."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>painting</e1> was <MASK> a <e2>trunk</e2> next to the bed."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A pack <MASK> with <e2>clothing</e2> and books was carried by him on snow shoes set out on a long and perilous trail accompanied by two Seneca Indians."
+LABEL: Content-Container
+
+MASKED SENTENCE: "I gave him a <e1>bottle</e1> <MASK> with very cold <e2>water</e2> it yesterday because it was so hot out when I took him for a walk."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Oh, so this was all about a <e1>trash bag</e1> <MASK> <e2>money</e2> in it."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Finally, they found out that the <e1>letter</e1> was <MASK> inside a <e2>pocket notebook</e2> that Donna owned."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The Scorpio single was <MASK> in a <e2>bin</e2> with around 6 zillion 45s."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The brochure shows, in one embodiment, a <e1>vase</e1> <MASK> <e2>flowers</e2> inside a "cut flower" sleeve with the sleeve tied with a ribbon about the neck of the vase."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Each person's <e1>name</e1> was <MASK> in a <e2>box</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Ken placed a thermometer in a <MASK> <MASK> with hot <e2>water</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The bottles <MASK> a substance authorities believe is human fat."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The detector module including a preamplifier was <MASK> inside a laboratory oven."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Stirring a <e2>kettle</e2> <MASK> hot popcorn drizzled with sugar, salt and oil evenly coats the popcorn."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>rootball</e1> was <MASK> in a <e2>crate</e2> the size of a refrigerator, and some of the arms were over 12 feet tall."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A <e1>rasher</e1> of bacon was <MASK> in a returned <e2>book</e2> by a Worthing librarian."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The locker <MASK> a big fluffy robe for me to change into."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A full quarter of the <e1>products</e1> in the <e2>supermarket</e2> <MASK> some form of corn in them."
+LABEL: Content-Container
+
+MASKED SENTENCE: The credit card-sized <e1>reader</e1> <MASK> in my <e2>wallet</e2>, so that I can carry it with myself wherever I go.
+LABEL: Content-Container
+
+MASKED SENTENCE: "The jewelry was <MASK> in a cabinet in the same room."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>database</e1> <MASK> more than 150000 <e2>images</e2> covering the early 1970s to 1994."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The ovarian <e1>tumour</e1> was <MASK> inside a plastic <e2>bag</e2> before retrieval."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Plus the drink machine was out so my <e1>drink</e1> was <MASK> in a <e2>can</e2> and they had no ice as well."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Only the session <e1>identifier</e1> is <MASK> in a <e2>cookie</e2> whether database is used or not."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>document</e1> was <MASK> in a <e2>safe</e2> at Scotland Yard and only sent to the coroner in 2003."
+LABEL: Content-Container
+
+MASKED SENTENCE: "They advised me that their <e1>records</e1> for 1993 were <MASK> in a <e2>box</e2> of files in a warehouse."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The mummy, ensconced in material, was <MASK> inside a box bearing the words "Sacred to the memory of our little Hawaiian home across the sea.""
+LABEL: Content-Container
+
+MASKED SENTENCE: "To the right of that is a <e1>cup</e1> <MASK> with <e2>soil</e2> inside."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The first <e1>bomb</e1> to explode in the main northwest city of Peshawar on Saturday was <MASK> in a <e2>car</e2> and devastated a street busy with traffic, shoppers and worshippers heading to mosques to pray."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>binder</e1> was <MASK> in a <e2>box</e2> labeled "vegetable oil"."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Each feeding unit contains a sensor for measuring the remaining <e1>feed</e1> <MASK> in a <e2>scuttle</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>thermocouple</e1> was <MASK> in a <e2>box</e2> (to prevent it from being sprayed with liquid nitrogen) and in a small block of thermal insulation (to reduce excessive cycling)."
+LABEL: Content-Container
+
+MASKED SENTENCE: "It turned out that the <e1>bag</e1> was <MASK> with <e2>sand</e2> and had been inadvertently left behind by JanSport, a company that makes backpacks."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>rifle</e1> was <MASK> in a <e2>case</e2>, which, in turn, was enclosed in a box."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The new armored <e1>casemate</e1> fitted on the hull <MASK> a 15 cm <e2>howitzer</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: Although there was ammunition scattered over the apartment, the <e1>gun</e1> itself was <MASK> in a <e2>safe</e2>, and not loaded.
+LABEL: Content-Container
+
+MASKED SENTENCE: "The shaving cream was <MASK> in a box with plywood sides and plastic faces."
+LABEL: Content-Container
+
+MASKED SENTENCE: "We dissolved the contents of one packet in a carafe <MASK> <e2>water</e2> and ran the brew cycle."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The 18-year-old apparently took her life with her father's service gun, which was locked in a <MASK> safe box."
+LABEL: Content-Container
+
+MASKED SENTENCE: Typically, the maximum heat generated from 24 fuel assemblies <MASK> in a <e2>cask</e2> is less than that given off by a typical home heating system in an hour.
+LABEL: Content-Container
+
+MASKED SENTENCE: "The base of the shrine <MASK> a lone datura seedpod."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The stomach <MASK> a small amount of bile-stained acid fluid."
+LABEL: Content-Container
+
+MASKED SENTENCE: "I <MASK> the <e1>stocks</e1> in an individual <MASK> retirement account</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "We <MASK> the <e1>box</e1> in a desk drawer and use the removable four-compartment tray to organize cash and valuables."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>holy water</e1> was <MASK> in a <e2>bottle</e2> container in the form of the Virgin Mary."
+LABEL: Content-Container
+
+MASKED SENTENCE: "As the plan became a reality, Schwartz <MASK> all the existing <e1>merchandise</e1> in the <e2>shop</e2> and prepared an Excel spreadsheet to track sales."
+LABEL: Content-Container
+
+MASKED SENTENCE: "I pressed my nose against a <e1>bottle</e1> <MASK> <MASK><e2>snakes</e2>, fermenting in their frozen grimaces."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A <e1>Golden retriever</e1> was <MASK> in a <e2>crate</e2> in the back of the vehicle when it was stolen."
+LABEL: Content-Container
+
+MASKED SENTENCE: "At police headquarters, the list of hidden initials was forgotten <MASK> in a safe in the office of the squad's boss."
+LABEL: Content-Container
+
+MASKED SENTENCE: "I was walking on a beach today and <MASK> a plastic <e1>bottle</e1> with <e2>paper</e2> in it."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The computer was <MASK> inside a water-proof box."
+LABEL: Content-Container
+
+MASKED SENTENCE: "An unexploded <e1>bomb</e1> was <MASK> inside a powdered milk <e2>can</e2> two months ago."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The molotov cocktail is a <e1>bottle</e1> <MASK> <e2>gasoline</e2> in it that has a damp cloth in the top that acts as a wick."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A man picked us up at an airport on the west coast a short time ago, and on the floor of his car was a <e1>bottle</e1> <MASK> with <e2>liquid</e2> in it."
+LABEL: Content-Container
+
+MASKED SENTENCE: "At the time of the incident the front <e1>tank</e1> was <MASK> with <e2>molasses</e2>, the middle two tanks had no contents and the rear tank had just been emptied."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The motor is <MASK> inside a <e2>caisson</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "I'm not a violent person and the <e1>gun</e1> was <MASK> in a <e2>safe</e2> away from anyone."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The hard drive was forgotten <MASK> inside a car, which was ignited."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The "Rosewill LCD/plasma screen cleaner" came with a bottle <MASK> <e2>solution</e2> and a cloth and a spray bottle to put the solution in."
+LABEL: Content-Container
+
+MASKED SENTENCE: "<MASK> a slow cook <e1>turkey</e1> in the <e2>crock pot</e2> is pretty similar to making one in the oven."
+LABEL: Content-Container
+
+MASKED SENTENCE: "In this study, we <MASK> the suspension of solid <e1>particles</e1> in a <MASK><e2>vessel</e2> equipped with dual traditional impellers."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>warmouth</e1>, for example, was <MASK> in a <e2>bin</e2> next to some nearly translucent banded pygmy sunfish."
+LABEL: Content-Container
+
+MASKED SENTENCE: "That <e1>box</e1> was <MASK> in a <e2>chest</e2> that had been locked since at least the early 1800s."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A suitcase <MASK> some clothing in it had been left by my bed earlier in the week."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The desert temperature at the time of her death was 110 degrees, but a <e1>bottle</e1> <MASK> with <e2>water</e2> in it was found with her body, raising doubts on dehydration as a cause of death."
+LABEL: Content-Container
+
+MASKED SENTENCE: "On his journeys around the world, Yasser Arafat was in the habit of taking a suitcase <MASK> cash for "emergency" cases."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Scientists have <MASK> for the first time a dinosaur with shelled <e1>eggs</e1> inside her <e2>belly</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>pizza dough</e1> was <MASK> in a <e2>bin</e2> on the floor."
+LABEL: Content-Container
+
+MASKED SENTENCE: "No one found the handcuff key, which was <MASK> in a small <e2>pouch</e2> in his gym shorts."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Along with lots of padding, a <e1>treat</e1> <MASK> inside a <e2>towel</e2> was put the seat of the stuntman's pants to entice the dog to bite the padded part."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The plastic bottle <MASK> a working "Shake-N-Bake" method meth lab."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The results were obtained after measuring the <e1>cell mass</e1> <MASK> in a flask."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A planted <e1>bomb</e1> <MASK> inside a sedan car exploded in front of the fine arts institution at Mansour neighborhood."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>message</e1> was <MASK> inside a <e2>box</e2> of Post Toasties."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Extra virgin olive <e1>oil</e1> is <MASK> in a <e2>cask</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Remains from the Viking ship were <MASK> in an aluminium <e1>casket</e1> placed inside a five-ton stone <e2>sarcophagus</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The absorbent was <MASK> in a 3 litre reactor."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The Aerosmith game was <MASK> in a <e2>bin</e2> over on the other side of the store."
+LABEL: Content-Container
+
+MASKED SENTENCE: "People perceive me as if I'm crazy conversing with a <e1>bottle</e1> <MASK> <e2>wine</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The reagent was <MASK> the holding dam of melted paraffin wax approximately 2 inches in diameter."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The hairdryer was <MASK> in the desk drawer."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>monitor</e1> was <MASK> in the <e2>lid</e2> of the wire recorder case."
+LABEL: Content-Container
+
+MASKED SENTENCE: "As with most American families I started bad eating habits at an early age, I still remember the times I was given a <e1>bottle</e1> <MASK> with <e2>soda</e2> in it."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The interesting problem with this is that the Oatmeal was in a bowl and the <e1>milk</e1> was <MASK> in a <e2>cup</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: Two hours later, I had a bottle <MASK> warm <e2>water</e2>.
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>material</e1> was <MASK> in a <e2>trunk</e2> in a basement and I knew I needed to get it."
+LABEL: Content-Container
+
+MASKED SENTENCE: About 3% of 2-4 year olds show marked dental decay due to sleeping with a <e1>bottle</e1> <MASK> juice or milk.
+LABEL: Content-Container
+
+MASKED SENTENCE: "The Skinner <e1>box</e1> was <MASK> inside a large wooden icebox</MASK>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "When recruits were paid a shilling for signing on to the Royal Navy, press gangs tricked men into committing themselves to service by <MASK> them the <e1>coin</e1> in a tankard of beer."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>cup</e1> was <MASK> in a 9ft oak coffin, carved from a single tree trunk."
+LABEL: Content-Container
+
+MASKED SENTENCE: "His mother's <e1>body</e1> was <MASK> in a <e2>chest freezer</e2> in the basement."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The balance of the <e1>loot</e1> was <MASK> in a <e2>box</e2> in the garage."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>ring</e1> was <MASK> in a <e2>glass</e2> of champagne, and all of hubby's family was present."
+LABEL: Content-Container
+
+MASKED SENTENCE: "There is a <e1>suitcase</e1> <MASK> <e2>money</e2>, which is being auctioned off."
+LABEL: Content-Container
+
+MASKED SENTENCE: "An 11-year-old Greensboro boy turned in a purse <MASK> <e2>money</e2> inside after he found it in a creek Saturday."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The election judges <MASK> in a <e1>ballot box</e1> some <e2>ballots</e2> that were not the kind properly belonging in it; they've put those ballots aside."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The second <e1>router</e1> was <MASK> in a <e2>box</e2> under the overhang of the bathrooms at the top part of the map."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Local fisherman heated some of their <e1>catch</e1> cooked over coals that <MASK> from <e2>scuttle</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The chosen <e1>volume</e1> <MASK> <e2>software</e2> which is newer than the software you are installing."
+LABEL: Content-Container
+
+MASKED SENTENCE: "We currently <MASK> the <e1>mixture</e1> in a covered <e2>container</e2> in the refrigerator and we will use it up within a couple of days."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A grieving family learned their 95-year-old great-grandmother had been cremated when they <MASK> a stranger's <MASK> body in her <e2>casket</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "<e1>Water</e1> <MASK> in a cistern is suitable for drinking water or bathing."
+LABEL: Content-Container
+
+MASKED SENTENCE: "While it is very easy to <MASK> the <e1>cash</e1> in a <e2>desk drawer</e2> or a closet shelf, it is not secure."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>body</e1> of Sandra Cantu was <MASK> inside a suitcase in an irrigation pond."
+LABEL: Content-Container
+
+MASKED SENTENCE: "When <e1>water</e1> <MASK> in a <e2>kettle</e2> becomes acidic due to decomposing organic plant matter, it becomes a kettle bog or kettle peatland."
+LABEL: Content-Container
+
+MASKED SENTENCE: "I gotta a <e1>bottle</e1> <MASK> with <e2>snake oil</e2> with a label made of rainbows."
+LABEL: Content-Container
+
+MASKED SENTENCE: "This information is <MASK> in the 'header' <e1>information</e1> in the file <e2>storage</e2>, and is required for proper display and analysis of the images."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>prescription bottle</e1> was <MASK> inside a <e2>plastic pouch</e2> along with the Newport cigarette box containing one of the crack pipes."
+LABEL: Content-Container
+
+MASKED SENTENCE: "It is inherently no less silly to see a king in a pear (as all of France did) than to <MASK> a pear in a rabbit, a rabbit in a carafe, a carafe in a clock, and so on and so forth."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The wallet <MASK> a driver's license, passport, a couple credit cards and $16 in cash."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A drug smuggler tried to <MASK> more than 2 pounds of <e1>hashish</e1> into the country inside a wooden <e2>chessboard</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>disk</e1> and controller were <MASK> in a box seven feet high and about 20 feet long and 3 feet wide."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Police investigating the discovery of a severed head on a British beach have <MASK> a <e1>suitcase</e1> in a nearby harbour full of <e2>body parts</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>machine</e1> was <MASK> in a <e2>cabinet</e2> very similar to the type 'A' machines, and weighed 95 pounds."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The charger was <MASK> in a suitcase that was (and still is!) lost by the airline."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The dead <e1>body</e1> of a British tourist was <MASK> tied in a <e2>sack</e2> with weights, stripped, and thrown into sea."
+LABEL: Content-Container
+
+MASKED SENTENCE: "This picture <MASK> <e2>photographs</e2> measuring 9 x 13 cm, 3.5 x 5 inches."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A sluggish <e1>cat</e1> named Minnie <MASK> in a <e2>scuttle</e2> beside the stove."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A chicken <e1>skin</e1> is <MASK> inside a <e2>carafe</e2> after having been stuffed with its own meat."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A <e1>bottle</e1> <MASK> <e2>cereal</e2> in it contains more calories than the bottle alone so it can set your baby up for some overeating habits."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The first <e1>tea</e1> <e2>bags</e2> were <MASK> from hand-sewn silk muslin bags."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Because we made observations, we <MASK> the fate of the <e1>cat</e1> in the <e2>box</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The manure was <MASK> in open sheds, though some stored it in closed sheds."
+LABEL: Content-Container
+
+MASKED SENTENCE: "So often the <e1>products</e1> <MASK> in a gift <e2>basket</e2> look wonderful until you actually remove them from the basket."
+LABEL: Content-Container
+
+MASKED SENTENCE: "You <MASK> a <e1>bottle</e1> with pretty blue <e2>water</e2> in it in the bathroom."
+LABEL: Content-Container
+
+MASKED SENTENCE: "He found that the <e1>envelope</e1> <MASK> a white <e2>powder</e2>, which you told him was anthrax."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The weight of the groceries <MASK> in a shopping basket and the number of items in a shopping basket are discrete quantities."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The mp3 player was <MASK> inside a silicone case that covered everything but the click wheel and the screen."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>sample</e1> was <MASK> in a brass sample <e2>cup</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The real <e1>rum</e1> was <MASK> in a <e2>glass</e2> on a nearby shelf."
+LABEL: Content-Container
+
+MASKED SENTENCE: Police have appealed for help in catching a burglar who <MASK> a <e1>suitcase</e1> full of <e2>booze</e2> from a garden shed.
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>box</e1> was <MASK> inside a plain brown paper bag with a heart drawn on the side."
+LABEL: Content-Container
+
+MASKED SENTENCE: "But Solomon had arranged that the only water <MASK> in the palace was in a <e2>jar</e2> by his bed."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The aviator's <e1>jungle aid</e1> was <MASK> in a sealed <e2>escape kit</e2> along with maps of the territory and a dictionary of phrases and words in local dialect."
+LABEL: Content-Container
+
+MASKED SENTENCE: "I always <MASK> a suitcase</e1> with my <e2>clothes</e2> in it."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The alkali was <MASK> in a nickel crucible with a loose lid having openings for the stirrer and for the passage of nitrogen."
+LABEL: Content-Container
+
+MASKED SENTENCE: An explosive <MASK> was <MASK> inside a <e2>bag</e2> at the entrance to the Shalom theater in Moscow.
+LABEL: Content-Container
+
+MASKED SENTENCE: "A <e1>body</e1> was <MASK> inside a in the Yale University building at 10 Amistad Street."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The contraband was <MASK> in a suitcase in the unclaimed luggage room at the airport."
+LABEL: Content-Container
+
+MASKED SENTENCE: "He removed the glass <e1>slide</e1> precleaned in piranha solution that was <MASK> upright in a beaker."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>backflap</e1> that <MASK> in a <e2>suitcase</e2> was in the trunk of the car."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>coolant</e1> was <MASK> in a special <e2>tank</e2> divided by a flexible membrane onto a coolant storage and an air-pressurization chamber."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Today I was there and I bought a <e1>ball</e1> that was <MASK> in a <e2>bin</e2> with a ton of things placed on top of it."
+LABEL: Content-Container
+
+MASKED SENTENCE: "That big piece of <e1>meat</e1> was <MASK> in a <e2>can</e2> of Bush's Baked Beans that we had for lunch today."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Inside, they found a plastic bag <MASK> cocaine inside under the driver's seat."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The Liberian national <MASK> a <e1>suitcase</e1> in <e2>bills</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The file was <MASK> in the desk of a researcher employed by Kenny MacAskill and Tricia Marwick who had been dismissed earlier in the month."
+LABEL: Content-Container
+
+MASKED SENTENCE: "I like how the device is <MASK> into a <e2>beaker</e2>; I view this gizmo as a metaphor for a mad scientist's brain."
+LABEL: Content-Container
+
+MASKED SENTENCE: "I saw that the antenna was <MASK> inside the two-dimensional labyrinth-based left-handed the medium."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>envelope</e1> <MASK> a single <e2>sheet</e2> of paper, describing an attempt to set the record for the world's longest running chain letter."
+LABEL: Content-Container
+
+MASKED SENTENCE: "My <e1>itinerary</e1> was <MASK> in a <e2>suitcase</e2>, among stacks of teaching materials so I asked the Delta ticket agent to look up my outgoing flight number."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>flour</e1> was <MASK> in a <e2>can</e2> marked "sugar" and the tea was in a box marked "salt.""
+LABEL: Content-Container
+
+MASKED SENTENCE: "Ten years ago I started bringing a <e1>suitcase</e1> <MASK> odd props to schools and libraries all over the world."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The infusion was <MASK> in a 6 ml plastic disposable syringe."
+LABEL: Content-Container
+
+MASKED SENTENCE: "So with my little <e1>bag</e1> <MASK> with <e2>buttons</e2>, I faced the cold, blustery day to carry out some of these lovely ideas."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The purple <e1>puppet</e1> was <MASK> in a <e2>crate</e2> being shipped from the UK to Australia."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The swelling continued so it was time to try the oils <MASK> in a capsule."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Be careful, because just one little clove imparts a terrific amount of spice to a bottle <MASK> <e2>rum</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>mah-jongg set</e1> was <MASK> in a <e2>trunk</e2> in the attic all through my childhood, then the trunk was in the garage for ten years."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The tube was positioned in an inclined manner with the end inserted into a glass <MASK> with <e2>water</e2> that was being boiled."
+LABEL: Content-Container
+
+MASKED SENTENCE: "They had been alerted that the <e1>cocaine</e1> was <MASK> in a <e2>crate</e2> of turkeys, but they didn't see any."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A "talented student" who kept a <e1>pistol</e1> <MASK> in a <e2>safe</e2> at his Wolverhampton home has been sent to a young offenders institution."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>money</e1> was <MASK> in a <e2>bag</e2> of chamois leather, of respectable dimensions, which my banker had given me."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Every bride was presented with a suitcase <MASK> <e2>gifts</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A <MASK>suitcase</e1> <MASK> his <e2>things</e2> in it was on the doorstep."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>bag</e1> was <MASK> in a <e2>sack</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: The information was <MASK> in the <e2>memory</e2> of a second-hand photo camera.
+LABEL: Content-Container
+
+MASKED SENTENCE: "In the first series of tests, the <MASK> aluminum <MASK> in a vacuum-sealed, pyrolytic boron <e2>nitride crucible</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "4 g of sodium metabisulfite were spread between sheets of greaseproof paper at the bottom of 40 x 30 x 10 cm <e1>cartons</e1> which were <MASK> in <e2>plastic bags</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "My first <e1>dog</e1> was <MASK> in a <e2>crate</e2> until about a year old."
+LABEL: Content-Container
+
+MASKED SENTENCE: "They saw that the equipment was <MASK> inside rollout drawers, which looked aesthetically more pleasing and tidy."
+LABEL: Content-Container
+
+MASKED SENTENCE: "His <e1>interview</e1> for Colonel James Critchfield of the CIA's Gehlen Organization that runs to nearly a thousand pages was <MASK> in the CIA's <e2>files</e2> for years."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>suitcase</e1> was <MASK> with smart new <e2>clothes</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "In the beginning, the yarn was <MASK> in plastic Ikea bins."
+LABEL: Content-Container
+
+MASKED SENTENCE: "It was a jigsaw puzzle game of several <MASK> <e1>pecans</e1> in a <MASK><e2>dish</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>tea bag</e1> was <MASK> in a <e2>mug</e2>, which made the whole process more straightforward."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The money-laced <e1>comforter</e1> was <MASK> in a <e2>suitcase</e2> bound for the Middle East aboard a commercial flight."
+LABEL: Content-Container
+
+MASKED SENTENCE: "This machine <MASK> in a suitcase that was the size of a carry-on bag and weighed less than 10 pounds."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>bible</e1> was <MASK> in a <e2>trunk</e2> that was sent to Fort Worth, Texas."
+LABEL: Content-Container
+
+MASKED SENTENCE: "It showed a photo of it being enclosed in a black plastic case and the <e1>disc</e1> was <MASK> in paper."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>windshield</e1> <MASK> a parachute <e2>housing</e2> containing a parachute assembly."
+LABEL: Content-Container
+
+MASKED SENTENCE: "<MASK> clothing in a cedar <e2>chest</e2> protected the apparel from the damaging effects of moth larvae."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The dagger was <MASK> inside a wooden sheath which is actually a walking stick."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A <e1>gas</e1> is <MASK> in a <e2>container</e2> fitted with a piston of cross-sectional area 0.10 mz."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The cocaine was <MASK> inside a teddy bear."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>bomb</e1> was discovered <MASK> inside a <e2>rubbish bin</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The TV was <MASK> in a cabinet that you can only see from the bed but not from the side because of the cabinet's door."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The anthrax was <MASK> in a suitcase, on its way to Canada."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>tea</e1> was <MASK> in a <e2>cup</e2> and not as the menu suggested in a pot."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The pepper was <MASK> in a bottle, and the roll of butter was made around it."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The 9-mm <e1>pistol</e1> was <MASK> in the <e2>battery slot</e2> of the laptop and could have been used in a possible hijacking attempt."
+LABEL: Content-Container
+
+MASKED SENTENCE: "One of the soft baby toys were four <e1>bug buddies</e1> <MASK> in a <e2>jug</e2> with a mesh-top lid."
+LABEL: Content-Container
+
+MASKED SENTENCE: "This <e1>skirt</e1> was <MASK> in a <e2>bin</e2> in my garage."
+LABEL: Content-Container
+
+MASKED SENTENCE: "This video segment, adapted from ZOOM, demonstrates how to use a drinking straw and a <e1>bottle</e1> <MASK> with <e2>water</e2> to create low- and high-pitched sounds."
+LABEL: Content-Container
+
+MASKED SENTENCE: "<e1>Fruit</e1> is <MASK> in a <e2>chute</e2> or on pack or rotary tables prior to being loaded into a carton."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The club's president noticed the <e1>money</e1> <MASK> inside a <e2>box</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "This <e1>stolen property</e1> was <MASK> in a <e2>trunk</e2> which was locked, and was in her room."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A <e1>bottle</e1> <MASK> with <e2>liquid</e2> flew out of the stands and struck visiting keeper Armando Ribeiro just below the right eye."
+LABEL: Content-Container
+
+MASKED SENTENCE: "When she had her last surgery in March, her grandma got her a suitcase <MASK> new pajamas in it."
+LABEL: Content-Container
+
+MASKED SENTENCE: "As it was, the principal thing she thought of, after Mr. Wales and his wife had gone, was that the <e1>key</e1> was <MASK> in the <e2>desk</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "I <MASK> a <e1>wallet</e1> once with 30 <e2>quid</e2> in it, I handed in the wallet but took the money."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Anne Grey's mind was <MASK> with <e2>questions</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>ice</e1> was <MASK> in a 10 cm thick insulating foam-lined <e2>box</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>letter</e1> was <MASK> in a stamped <e2>envelope</e2> of the type sold in the South Dakota state penitentiary commissary."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Second, the <e1>car</e1> was <MASK> in a <e2>crate</e2>, so no one would have been able to climb into it even if he/she had found a way into the cargo hold."
+LABEL: Content-Container
+
+MASKED SENTENCE: "This <e1>money</e1> was <MASK> in a <e2>trunk box</e2> as a family treasure and was deposited as Consignment to avoid much demurrage from the Security Company."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>body</e1> of her nephew was <MASK> in a <e2>suitcase</e2> under the bed."
+LABEL: Content-Container
+
+MASKED SENTENCE: "There are actual world records for the kookiest hat, the longest time a <e1>message</e1> was <MASK> in a <e2>bottle</e2> at sea, and the tallest scarecrow."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>playlist</e1> was <MASK> in a small leather <e2>portfolio</e2> in which I keep important papers."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>necklace</e1> was <MASK> in a <e2>safe</e2> in their room at the Victor Hugo Hotel."
+LABEL: Content-Container
+
+MASKED SENTENCE: "It wasn't long before the <e1>animal</e1> was <MASK> in a <e2>crate</e2> on its way back to its farm, courtesy of the assistant, of course."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>disc</e1> <MASK> in a disc <e2>music box</e2> plays this function, with pins perpendicular to the plane surface."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>seed</e1> was <MASK> inside a <e2>jar</e2> full of the discarded pits of dates during excavations of Masada in the 1960s."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A <e1>suitcase</e1> <MASK> <e2>clothing</e2> in it had escaped the flames, yet some of the clothing inside were ashes, while the rest remained intact."
+LABEL: Content-Container
+
+MASKED SENTENCE: "One pottery vessel lay on her breast, and the <e1>body</e1> was <MASK> in a reed mat."
+LABEL: Content-Container
+
+MASKED SENTENCE: Vinegar flies are capable of living off alcohol fumes, alas, so it is enough to put out a <e1>bottle</e1> <MASK> with <e2>attractant</e2> in it.
+LABEL: Content-Container
+
+MASKED SENTENCE: "He <MASK> a <e1>suitcase</e1> full of new <e2>clothing</e2> bought from New York and took a flight to India from Heathrow."
+LABEL: Content-Container
+
+MASKED SENTENCE: "In the bushes near the door, investigators <MASK> a <e1>backpack</e1> with papers inside."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A digital <e1>photo</e1> <MASK> in a <e2>frame</e2> (also called digital media frame) is a picture frame that displays digital photos without the need to print them or use a computer."
+LABEL: Content-Container
+
+MASKED SENTENCE: "I <MASK> the <e1>picture</e1> frame in my office for a couple of days, but like anybody else in the world I wanted to play with the device for a little longer."
+LABEL: Content-Container
+
+MASKED SENTENCE: "My <e1>soda</e1> <MASK> in a <e2>can</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "He also <MASK> a <e1>bottle</e1> with Joe's <e2>appendix</e2> in it."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Lacrosse players <MASK> the <e1>ball</e1> inside a <e2>stick</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A <e1>copy</e1> of the survey was <MASK> in the back-up materials <e2>packet</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>mouse</e1> was <MASK> in a <e2>prison</e2> with no hope of escape."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The first mass marketed <e1>toothpaste</e1> was <MASK> in a <e2>jar</e2> from Colgate with the tubes we know today coming into existence in 1896."
+LABEL: Content-Container
+
+MASKED SENTENCE: "I have no idea why this rather loud <e1>blazer</e1> from the GAP was <MASK> a <e2>bin</e2> at my local Dollar Tree."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The mechanism whereby air enters the skull could perhaps be compared to that in which air <MASK> a <e1>bottle</e1> full of <e2>liquid</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>journal</e1> was <MASK> inside a <e2>box</e2> of items given to him and his wife by his stepfather, after his mother's passing, which they never sorted through but kept stored in a garage."
+LABEL: Content-Container
+
+MASKED SENTENCE: "On my trip, I brought with me a <e1>suitcase</e1> <MASK> <e2>school supplies</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>figurine</e1> was <MASK> inside a <MASK><e2>chocolate egg</e2> eaten by ten-year-old Dixie, a Dalmatian collie living in Aberdeen."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Methamphetamine residue and a broken pipe used for consuming it were retrieved from a toilet, along with $7800 in <e1>cash</e1> that was <MASK> in a <e2>towel</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A customer shopping at a Walmart in Falmouth <MASK> 10 human <e1>teeth</e1> in a <e2>wallet</e2> he was about to purchase."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>bike</e1> was <MASK> in a <e2>crate</e2> on the back of a truck."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>pack</e1> <MASK> a <e2>CD</e2> which held a range of resource information sheets and some presentations that could be integrated into your training packages."
+LABEL: Content-Container
+
+MASKED SENTENCE: "I was thrilled to see this delicious Pennsylvania 7.5% <e1>amber</e1> <MASK> in a <e2>firkin</e2> down there."
+LABEL: Content-Container
+
+MASKED SENTENCE: U.S. Customs and Border Protection officers stopped a drug-smuggling attempt when they <MASK> a <e1>suitcase</e1> full of <MASK><e2>marijuana</e2>.
+LABEL: Content-Container
+
+MASKED SENTENCE: "A traffic stop for speeding Tuesday afternoon in Troup County led to the seizure of more than $540,000 in <MASK><e1>currency</e1> that was <MASK> in <e2>buckets</e2> of roofing tar."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Neighbours and some parents observed the limbs and head were missing from the body, and its torso was <MASK> in a suitcase."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The bomb was <MASK> in a large white truck and consisted of a fertilizer device wrapped with a detonation cord made from Semtex."
+LABEL: Content-Container
+
+MASKED SENTENCE: "An <e1>explosive</e1> was <MASK> in a <e2>condom</e2> or condom-like bag just below his torso."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>backpack</e1> <MASK> a <e2>social security number</e2> and other miscellaneous items."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The book was <MASK> in a trunk full of documents handed over to the archive."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The handgun was <MASK> inside a sealed Velcro pocket on the front driver's seat."
+LABEL: Content-Container
+
+MASKED SENTENCE: "These children have given up everything - all they own now is a <e1>suitcase</e1> <MASK> <e2>clothes</e2> in it."
+LABEL: Content-Container
+
+MASKED SENTENCE: "In the 1940s and 50s the empty canal was used by a chemical and plastics company to dump nearly 20,000 tons (c.18,000 metric tons) of toxic waste; the <e1>waste</e1> was <MASK> in <e2>metal drums</e2> in a manner that has since been declared illegal."
+LABEL: Content-Container
+
+MASKED SENTENCE: "A suitcase <MASK> a bomb in it is carried around."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Britain's oldest surviving human <e1>brain</e1> was <MASK> inside a decapitated <e2>skull</e2> placed in a small pit near York."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The letter was <MASK> in a chest downstairs in the Kitchen area."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The entire running gear of the engine was <MASK> in a copper case."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>map</e1> was <MASK> in a <e2>safe</e2> in her office."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Tim Boyle (1846) checks a flask that <MASK> the dried cathode precursor powder."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The contents of the <e1>envelope</e1> <MASK> a <e2>sheet</e2> of foreign note-paper, and a folded enclosure."
+LABEL: Content-Container
+
+MASKED SENTENCE: "He used a stable form of <e1>liquid nitroglycerin</e1> <MASK> in a <e2>bottle</e2> labeled as contact lens solution, using cotton as a stabilizer."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The conventional way to grow bacteria is to inoculate a flask that <MASK> a <e2>broth</e2> of nutrients."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The contents of the bear's stomach <MASK> <e2>apple mash</e2>, corn and blueberries."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>box</e1> <MASK> three stiff <e2>cardboard tubes</e2>, each wrapped in now decaying cellophane."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The building <MASK> a significant amount of furniture and equipment."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The remaining <e1>contents</e1> of the package <MASK> four ounces of <e2>plastique</e2> filled with tiny metallic slivers."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>newspaper</e1> was being <MASK> in a <e2>box</e2>."
+LABEL: Content-Container
+
+MASKED SENTENCE: "Harry Stanley, 46, from Hackney, East London, was shot and killed by Metropolitan Police officers who had mistaken a chair-leg</e1> being <MASK> in a <e2>plastic bag</e2> for a firearm."
+LABEL: Content-Container
+
+MASKED SENTENCE: "You noticed the three numbers at the bottom of a <e2>package</e2> <MASK> fertilizer."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>box</e1> <MASK> the <e2>answer</e2> to how you got trapped."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The <e1>box</e1> <MASK> 126 <e2>recipes</e2>, mostly written in pen in neatly rounded script."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The contents of the <e1>boxes</e1> <MASK> <e2>phone cards</e2>, disposable cameras and razors, travel-size toiletries, snack food, and lots of candy."
+LABEL: Content-Container
+
+MASKED SENTENCE: "The contents of the <e1>box</e1> <MASK> of a <e2>present</e2> and the box itself was as a present."
+LABEL: Content-Container
