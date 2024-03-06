@@ -16,7 +16,7 @@ def parse_file_to_list(filename):
             if count % 4 == 2:  # kommentar
                 entry['comment'] = line[8:-1]
             if count % 4 == 3:  # leerzeile
-                if entry['sem_rel'] == 'Component-Whole(e1,e2)' or entry['sem_rel'] == 'Component-Whole(e2,e1)':
+                if entry['sem_rel'] == 'Entity-Destination(e1,e2)' or entry['sem_rel'] == 'Entity-Destination(e2,e1)':
                     entries.append(entry)
                 entry = {}
 

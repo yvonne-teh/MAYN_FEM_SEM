@@ -8,8 +8,7 @@ client = AsyncOpenAI()
 async def main(semeval_tuple):
     # Your existing setup
     system = """
-    Find the preposition that connects the words e1 and e2.
-    Return only the one preposition that you found.
+    Find the verb of the sentence that describes the relation between the nouns e1 and e2 and return its lemma.
     """
 
     prompt = semeval_tuple['sentence']
