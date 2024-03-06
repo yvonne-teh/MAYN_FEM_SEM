@@ -1,3 +1,4 @@
+
 IA = {'use': 76, 'apply': 16, 'take': 13, 'be': 10, 'attach': 9, 'create': 9, 'wield': 9, 'kill': 8, 'power': 6, 'play': 5, 'clean': 5, 'build': 5, 'form': 5, 'manipulate': 5, 'drive': 5, 'carry': 4, 'work': 4, 'fix': 4, 'mark': 4, 'give': 4, 'turn': 4, 'adjust': 4, 'show': 4, 'perform': 4, 'scale': 4, 'find': 3,
       'stir': 3, 'choose': 3, 'acces': 3, 'determine': 3, 'treat': 3, 'tear': 3, 'fly': 3, 'threaten': 3, 'stop': 3, 'strike': 3, 'proces': 3, 'have': 3, 'start': 3, 'br': 3, 'move': 2, 'implement': 2, 'break': 2, 'calibrate': 2, 'approach': 2, 'resolve': 2, 'assist': 2, 'write': 2, 'cover': 2, 'identify': 2, 'study': 2, 'make': 2, 'touch': 2, 'help': 2, 'bake': 2, 'offer': 2, 'improve': 2, 'carve': 2, 'employ': 2, 'receive': 2, 'buy': 2, 'come': 2, 'win': 2, 'relax': 2, 'wear': 2, 'eat': 2, 'push': 2, 'put': 2, 'examine': 2, 'need': 2, 'remove': 2, 'deface': 2, 'obtain': 2, 'batter': 2, 'observe': 2, 'hold': 2, 'sweep': 2, 'operate': 2, 'travel': 2, 'get': 2, 'saw': 2, 'establish': 2, 'swap': 1, 'propose': 1, 'sew': 1, 'peel': 1, 'benefit': 1, 'plow': 1, 'catch': 1, 'drink': 1, 'filter': 1, 'locate': 1, 'asses': 1, 'mix': 1, 'date': 1, 'coat': 1, 'regain': 1, 'pres': 1, 'watch': 1, 'conduct': 1, 'machine': 1, 'light': 1,
       'diagnose': 1, 'search': 1, 'complete': 1, 'reach': 1, 'sever': 1, 'encrypt': 1, 'draw': 1, 'Ad': 1, 'finish': 1, 'illuminate': 1, 'connect': 1, 'decrease': 1, 'crate': 1, 'block': 1, 'call': 1, 'time-travel': 1, 'sequence': 1, 'hail': 1, 'hide': 1, 'release': 1, 'produce': 1, 'assemble': 1, 'demonstrate': 1, 'hear': 1, 'associate': 1, 'try': 1, 'belong': 1, 'cool': 1, 'place': 1, 'estimate': 1, 'toil': 1, 'cure': 1, 'injure': 1, 'liberate': 1, 'distinguish': 1, 'ease': 1, 'facilitate': 1, 'cultivate': 1, 'blast': 1, 'begin': 1, 'reclaim': 1, 'sculpt': 1, 'tap': 1, 'staple': 1, 'teach': 1, 'achieve': 1, 'pull': 1, 'transform': 1, 'attend': 1, 'pas': 1, 'clean.': 1, 'install': 1, 'provide': 1, 'till': 1, 'screen': 1, 'conquer': 1, 'inject': 1, 'water': 1, 'set': 1,
@@ -46,4 +47,8 @@ PP = {'gain': 2, 'produce': 10, 'release': 10, 'leave': 21, 'remove': 6, 'alarm'
 DICTS = [(IA, 'IA'), (PP, 'PP'), (CE, 'CE'), (MC, 'MC'),
          (EO, 'EO'), (CT, 'CT'), (ED, 'ED'), (CW, 'CW'), (CC, 'CC')]
 
-print(dict(sorted(ED.items(), key=lambda item: item[1], reverse=True)))
+
+LOG_DICTS = []
+for d in DICTS:
+    LOG_DICTS.append(({key: math.log10(value)
+                     for key, value in d[0].items()}, d[1]))
