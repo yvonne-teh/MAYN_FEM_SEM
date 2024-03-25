@@ -30044,7 +30044,7 @@ Cause-Effect(e2,e1)
 Comment:
 
 6010	"Earl turned and leaned on the <e1>railing</e1> of the <e2>balcony</e2>."
-6010	"Earl [MASK] and [MASK] on the railing of the balcony."
+6010	"Earl turned and [MASK] on the railing of the balcony."
 Component-Whole(e1,e2)
 Comment:
 
@@ -30169,12 +30169,12 @@ Component-Whole(e2,e1)
 Comment:
 
 6035	"This <e1>statement</e1> pointed toward the <e2>resolution</e2> preferred by the Bosnian Serbs."
-6035	"This statement [MASK] toward the resolution [MASK] by the Bosnian Serbs."
+6035	"This statement [MASK] toward the resolution preferred by the Bosnian Serbs."
 Message-Topic(e1,e2)
 Comment:
 
 6036	"Latest <e1>figures</e1> show <e2>unemployment</e2> in Wales is rising again despite falls in the previous two months."
-6036	"Latest figures [MASK] unemployment in Wales is [MASK] again despite falls in the previous two months."
+6036	"Latest figures [MASK] unemployment in Wales is rising again despite falls in the previous two months."
 Other
 Comment:
 
@@ -30199,7 +30199,7 @@ Other
 Comment: Here the study is a process; it is NOT written work. Violates (d).
 
 6041	"Athens, in his time, was strictly a portion of feudal Europe, and the <e1>chivalry</e1> of Athenian <e2>dukes</e2> was familiar to those for whom he wrote, and wherever chivalry was in esteem; and when he described a fatal battle in the plain of Thebes, the slaughter of knights, the despair of their ladies, he recalled a great catastrophe recent in men's memories."
-6041	"Athens, in his time, was strictly a portion of feudal Europe, and the chivalry of Athenian dukes was familiar to those for whom he [MASK], and wherever chivalry was in esteem; and when he [MASK] a fatal battle in the plain of Thebes, the slaughter of knights, the despair of their ladies, he recalled a great catastrophe recent in men's memories."
+6041	"Athens, in his time, was strictly a portion of feudal Europe, and the chivalry of Athenian dukes was familiar to those for whom he [MASK], and wherever chivalry was in esteem; and when he described a fatal battle in the plain of Thebes, the slaughter of knights, the despair of their ladies, he recalled a great catastrophe recent in men's memories."
 Other
 Comment: It's a character trait, a code -- not a set.
 
@@ -30214,7 +30214,7 @@ Member-Collection(e1,e2)
 Comment:
 
 6044	"In 1946, Maytag began marketing a separate line of ranges and <e1>refrigerators</e1> made by other <e2>companies</e2> under the Maytag name."
-6044	"In 1946, Maytag [MASK] marketing a separate line of ranges and refrigerators [MASK] by other companies under the Maytag name."
+6044	"In 1946, Maytag began marketing a separate line of ranges and refrigerators [MASK] by other companies under the Maytag name."
 Product-Producer(e1,e2)
 Comment: The other companies make the refrigerators.
 
@@ -30269,7 +30269,7 @@ Entity-Origin(e2,e1)
 Comment:
 
 6055	"Some of you remember the story of William Kamkwamba, the <e1>boy</e1> who at 14 built a 12-watt <e2>windmill</e2> from improvised materials for his famine-stricken home in Africa."
-6055	"Some of you remember the story of William Kamkwamba, the boy who at 14 [MASK] a 12-watt windmill from [MASK] materials for his famine-stricken home in Africa."
+6055	"Some of you remember the story of William Kamkwamba, the boy who at 14 [MASK] a 12-watt windmill from improvised materials for his famine-stricken home in Africa."
 Product-Producer(e2,e1)
 Comment: (a) is satisfied; modality is outside
 
@@ -30354,7 +30354,7 @@ Content-Container(e1,e2)
 Comment: prototypical example
 
 6072	"<e1>Ships</e1> heading north and eastward across the North Atlantic stayed in the <e2>current</e2>."
-6072	"Ships [MASK] north and eastward across the North Atlantic [MASK] in the current."
+6072	"Ships heading north and eastward across the North Atlantic [MASK] in the current."
 Instrument-Agency(e2,e1)
 Comment: The idea is that the current is more a force than a location. The most sensible interpretation of the sentence is that the ships are using the current.
 
@@ -30389,7 +30389,7 @@ Entity-Destination(e1,e2)
 Comment:
 
 6079	"Transient reduced electronic dynamics at low temperatures has been attempted by <e1>researchers</e1> using QDT <e2>approaches</e2>."
-6079	"Transient [MASK] electronic dynamics at low temperatures has been [MASK] by researchers using QDT approaches."
+6079	"Transient reduced electronic dynamics at low temperatures has been [MASK] by researchers using QDT approaches."
 Instrument-Agency(e2,e1)
 Comment:
 
@@ -30404,7 +30404,7 @@ Message-Topic(e2,e1)
 Comment:
 
 6082	"Aware of the <e1>suffering</e1> caused by the <e2>destruction</e2> of life, I am committed to cultivating compassion and learning ways to protect the lives of people, animals, plants, and minerals."
-6082	"Aware of the suffering [MASK] by the destruction of life, I am [MASK] to cultivating compassion and learning ways to protect the lives of people, animals, plants, and minerals."
+6082	"Aware of the suffering [MASK] by the destruction of life, I am committed to cultivating compassion and learning ways to protect the lives of people, animals, plants, and minerals."
 Cause-Effect(e2,e1)
 Comment:
 
@@ -30464,7 +30464,7 @@ Other
 Comment: violates c.3
 
 6094	"More <e1>people</e1> are falling into <e2>poverty</e2>, especially those already struggling to make ends meet."
-6094	"More people are [MASK] into poverty, especially those already [MASK] to make ends meet."
+6094	"More people are [MASK] into poverty, especially those already struggling to make ends meet."
 Other
 Comment: violates b.1 and c.3
 
@@ -30474,7 +30474,7 @@ Other
 Comment: decade is not a producer
 
 6096	"The <e1>trail</e1> starts at an <e2>elevation</e2> of 5600' and steadily climbs to the top of a 6850' promontory overlooking Pine and Juniper Canyons."
-6096	"The trail [MASK] at an elevation of 5600' and steadily [MASK] to the top of a 6850' promontory overlooking Pine and Juniper Canyons."
+6096	"The trail [MASK] at an elevation of 5600' and steadily climbs to the top of a 6850' promontory overlooking Pine and Juniper Canyons."
 Other
 Comment:
 
@@ -30639,7 +30639,7 @@ Entity-Destination(e1,e2)
 Comment:
 
 6129	"A former <e1>prostitute</e1> finds a professional job with the help of a training <e2>program</e2>."
-6129	"A former prostitute [MASK] a professional job with the [MASK] of a training program."
+6129	"A former prostitute [MASK] a professional job with the help of a training program."
 Instrument-Agency(e2,e1)
 Comment:
 
@@ -30654,7 +30654,7 @@ Member-Collection(e1,e2)
 Comment:
 
 6132	"The shock <e1>wave</e1> was generated by an <e2>explosive</e2> made from RDX."
-6132	"The shock wave was [MASK] by an explosive [MASK] from RDX."
+6132	"The shock wave was [MASK] by an explosive made from RDX."
 Cause-Effect(e2,e1)
 Comment:
 
@@ -30684,7 +30684,7 @@ Entity-Destination(e1,e2)
 Comment:
 
 6138	"To enable the animal to perform this wide range of activities, the <e1>beak</e1> of the <e2>chicken</e2> has an extensive nerve supply with numerous mechanoreceptors, thermoreceptors, and nociceptors."
-6138	"To [MASK] the animal to [MASK] this wide range of activities, the beak of the chicken has an extensive nerve supply with numerous mechanoreceptors, thermoreceptors, and nociceptors."
+6138	"To [MASK] the animal to perform this wide range of activities, the beak of the chicken has an extensive nerve supply with numerous mechanoreceptors, thermoreceptors, and nociceptors."
 Component-Whole(e1,e2)
 Comment:
 
@@ -30694,7 +30694,7 @@ Member-Collection(e2,e1)
 Comment:
 
 6140	"<e1>Ginger</e1> <e2>wine</e2> is a fortified wine made from a fermented blend of ground ginger and raisins that was first produced in England."
-6140	"Ginger wine is a fortified wine [MASK] from a fermented blend of ground ginger and raisins that was first [MASK] in England."
+6140	"Ginger wine is a fortified wine [MASK] from a fermented blend of ground ginger and raisins that was first produced in England."
 Entity-Origin(e2,e1)
 Comment:
 
@@ -30719,7 +30719,7 @@ Other
 Comment:
 
 6145	"Ching survives by latching on to a prostitute, played by Maggie Cheung, while Fung works his way in a <e1>circle</e1> of <e2>robbers</e2>."
-6145	"Ching [MASK] by latching on to a prostitute, [MASK] by Maggie Cheung, while Fung works his way in a circle of robbers."
+6145	"Ching survives by latching on to a prostitute, played by Maggie Cheung, while Fung [MASK] his way in a circle of robbers."
 Member-Collection(e2,e1)
 Comment:
 
@@ -30734,7 +30734,7 @@ Member-Collection(e2,e1)
 Comment:
 
 6148	"The 9-mm <e1>pistol</e1> was hidden in the <e2>battery slot</e2> of the laptop and could have been used in a possible hijacking attempt."
-6148	"The 9-mm pistol was [MASK] in the battery slot of the laptop and could have been [MASK] in a possible hijacking attempt."
+6148	"The 9-mm pistol was [MASK] in the battery slot of the laptop and could have been used in a possible hijacking attempt."
 Content-Container(e1,e2)
 Comment: prototypical example; modality is outside
 
@@ -30804,7 +30804,7 @@ Content-Container(e1,e2)
 Comment: prototypical example
 
 6162	"It shows a female <e1>doctor</e1> with a <e2>veil</e2> standing beside a female patient in bed, also wearing the veil."
-6162	"It [MASK] a female doctor with a veil [MASK] beside a female patient in bed, also wearing the veil."
+6162	"It [MASK] a female doctor with a veil standing beside a female patient in bed, also wearing the veil."
 Instrument-Agency(e2,e1)
 Comment: We accept wearing, putting on as a way of using.
 
@@ -30819,7 +30819,7 @@ Entity-Destination(e1,e2)
 Comment:
 
 6165	"A method of mitigating the effect of a market <e1>spike</e1> caused by the triggering and the <e2>election</e2> of a conditional order includes monitoring conditional orders."
-6165	"A method of [MASK] the effect of a market spike caused by the [MASK] and the election of a conditional order includes monitoring conditional orders."
+6165	"A method of [MASK] the effect of a market spike caused by the triggering and the election of a conditional order includes monitoring conditional orders."
 Cause-Effect(e2,e1)
 Comment:
 
@@ -30834,12 +30834,12 @@ Instrument-Agency(e2,e1)
 Comment:
 
 6168	"This video segment, adapted from ZOOM, demonstrates how to use a drinking straw and a <e1>bottle</e1> full of <e2>water</e2> to make low- and high-pitched sounds."
-6168	"This video segment, [MASK] from ZOOM, [MASK] how to use a drinking straw and a bottle full of water to make low- and high-pitched sounds."
+6168	"This video segment, adapted from ZOOM, [MASK] how to use a drinking straw and a bottle full of water to make low- and high-pitched sounds."
 Content-Container(e2,e1)
 Comment: prototypical example
 
 6169	"This paralyzed him so much that when trying to lay back on the bed, he fell on his back and hit his head on the <e1>bed</e1> <e2>post</e2>."
-6169	"This [MASK] him so much that when [MASK] to lay back on the bed, he fell on his back and hit his head on the bed post."
+6169	"This paralyzed him so much that when [MASK] to lay back on the bed, he fell on his back and hit his head on the bed post."
 Component-Whole(e2,e1)
 Comment:
 
@@ -30849,7 +30849,7 @@ Other
 Comment: violates c.3
 
 6171	"The <e1>wall</e1> was built some 2000 years ago by the first <e2>settlers</e2> of New Zealand, the Waitahas, who were subsequently nearly exterminated by the Maoris."
-6171	"The wall was [MASK] some 2000 years ago by the first settlers of New Zealand, the Waitahas, who were subsequently nearly [MASK] by the Maoris."
+6171	"The wall was [MASK] some 2000 years ago by the first settlers of New Zealand, the Waitahas, who were subsequently nearly exterminated by the Maoris."
 Product-Producer(e1,e2)
 Comment: (a) is satisfied
 
@@ -30979,7 +30979,7 @@ Member-Collection(e2,e1)
 Comment:
 
 6197	"The <e1>stroke</e1>, which was triggered by a <e2>bout</e2> of chicken pox, also weakened her arteries so much that doctors said she had the brain 'of an 80-year-old'."
-6197	"The stroke, which was [MASK] by a bout of chicken pox, also weakened her arteries so much that doctors [MASK] she had the brain 'of an 80-year-old'."
+6197	"The stroke, which was [MASK] by a bout of chicken pox, also weakened her arteries so much that doctors said she had the brain 'of an 80-year-old'."
 Cause-Effect(e2,e1)
 Comment:
 
@@ -30989,7 +30989,7 @@ Other
 Comment: violates b.1 and c.3
 
 6199	"The <e1>citizen</e1> observed the robbery through the store <e2>window</e2> and was assaulted by Chaplin as he left the store."
-6199	"The citizen [MASK] the robbery through the store window and was [MASK] by Chaplin as he left the store."
+6199	"The citizen [MASK] the robbery through the store window and was assaulted by Chaplin as he left the store."
 Instrument-Agency(e2,e1)
 Comment:
 
@@ -31069,7 +31069,7 @@ Other
 Comment: violates c.3
 
 6215	"Boslough and colleagues achieved fame more than a decade ago by accurately predicting that that the <e1>fireball</e1> caused by the <e2>intersection</e2> of the comet Shoemaker-Levy 9 with Jupiter is observable from Earth."
-6215	"Boslough and colleagues [MASK] fame more than a decade ago by accurately [MASK] that that the fireball caused by the intersection of the comet Shoemaker-Levy 9 with Jupiter is observable from Earth."
+6215	"Boslough and colleagues archieved fame more than a decade ago by accurately [MASK] that that the fireball caused by the intersection of the comet Shoemaker-Levy 9 with Jupiter is observable from Earth."
 Cause-Effect(e2,e1)
 Comment:
 
@@ -31199,7 +31199,7 @@ Other
 Comment: This is Purpose-Tool and thus Other; note "for". Charts communicate structure, if at all, not land masses.
 
 6241	"So there's a great <e1>bike</e1> of <e2>ants</e2> outside, and in dealing with such I've managed to bring some inside with me."
-6241	"So there's a great bike of ants outside, and in [MASK] with such I've [MASK] to bring some inside with me."
+6241	"So there [MASK] a great bike of ants outside, and in dealing with such I've managed to bring some inside with me."
 Member-Collection(e2,e1)
 Comment:
 
@@ -31229,7 +31229,7 @@ Instrument-Agency(e2,e1)
 Comment:
 
 6247	"Good <e1>breeding</e1> consists of <e2>concealing</e2> how much we think of ourselves and how little we think of the other person."
-6247	"Good breeding consists of concealing how much we [MASK] of ourselves and how little we [MASK] of the other person."
+6247	"Good breeding [MASK] of concealing how much we think of ourselves and how little we think of the other person."
 Cause-Effect(e1,e2)
 Comment: Good breeding causes certain behaviour. (It is an iffy diagnosis.)
 
@@ -31249,7 +31249,7 @@ Product-Producer(e2,e1)
 Comment: (a) is satisfied
 
 6251	"<e1>Listeners</e1> receive WBAI live over the internet (referred to as "streaming"), using one of the various audio <e2>formats</e2> below."
-6251	"Listeners [MASK] WBAI live over the internet (referred to as "streaming"), [MASK] one of the various audio formats below."
+6251	"Listeners [MASK] WBAI live over the internet (referred to as "streaming"), using one of the various audio formats below."
 Instrument-Agency(e2,e1)
 Comment:
 
@@ -31299,7 +31299,7 @@ Component-Whole(e2,e1)
 Comment:
 
 6261	"Lake Oswego was home to a <e1>sord</e1> of <e2>mallards</e2> who fled south during January and February, and returned in March for breeding."
-6261	"Lake Oswego was home to a sord of mallards who [MASK] south during January and February, and [MASK] in March for breeding."
+6261	"Lake Oswego was home to a sord of mallards who [MASK] south during January and February, and returned in March for breeding."
 Member-Collection(e2,e1)
 Comment:
 
@@ -31329,7 +31329,7 @@ Entity-Destination(e1,e2)
 Comment:
 
 6267	"I found a <e1>wallet</e1> once with 30 <e2>quid</e2> in it, I handed in the wallet but took the money."
-6267	"I [MASK] a wallet once with 30 quid in it, I [MASK] in the wallet but took the money."
+6267	"I [MASK] a wallet once with 30 quid in it, I handed in the wallet but took the money."
 Content-Container(e2,e1)
 Comment: prototypical example
 
@@ -31349,7 +31349,7 @@ Entity-Destination(e1,e2)
 Comment:
 
 6271	"This is a wholesale <e1>forum</e1> to discuss aspects of business such as <e2>dropshipping</e2>, wholesale buying and selling, reselling, etc."
-6271	"This is a wholesale forum to discuss aspects of business such as dropshipping, wholesale [MASK] and [MASK], [MASK], etc."
+6271	"This is a wholesale forum to discuss aspects of business such as dropshipping, wholesale [MASK] and selling, reselling, etc."
 Message-Topic(e1,e2)
 Comment:
 
@@ -31499,7 +31499,7 @@ Member-Collection(e2,e1)
 Comment:
 
 6301	"When these fuels are burned, they create air <e1>pollution</e1> that contributes to global warming and causes smog, acid rain and respiratory <e2>disease</e2>."
-6301	"When these fuels are [MASK], they create air pollution that contributes to global warming and [MASK] smog, acid rain and respiratory disease."
+6301	"When these fuels are burned, they create air pollution that contributes to global warming and [MASK] smog, acid rain and respiratory disease."
 Cause-Effect(e1,e2)
 Comment:
 
@@ -31519,7 +31519,7 @@ Entity-Destination(e1,e2)
 Comment:
 
 6305	"He put a <e1>sample</e1> into a <e2>funnel</e2> and, after giving it three years to settle, sealed everything in a glass jar."
-6305	"He [MASK] a sample into a funnel and, after [MASK] it three years to settle, sealed everything in a glass jar."
+6305	"He [MASK] a sample into a funnel and, after giving it three years to settle, sealed everything in a glass jar."
 Entity-Destination(e1,e2)
 Comment:
 
@@ -31557,6 +31557,7 @@ Comment:
 6312	"Engineers manually manufacture parts in the areas of [MASK] spray coatings, finishes, and other processes that cannot economically or practically be done by a machine."
 Product-Producer(e2,e1)
 Comment: the engineers are actively involved in the making of the parts
+
 6313	"Second, the <e1>car</e1> was in a <e2>crate</e2>, so no one would have been able to climb into it even if he/she had found a way into the cargo hold."
 6313	"Second, the car was in a crate, so no one would have been able to [MASK] into it even if he/she had found a way into the cargo hold."
 Content-Container(e1,e2)
@@ -32038,7 +32039,7 @@ Other
 Comment: the police is not the producer of the building
 
 6409	"In this beautiful re-imagining, the <e1>story</e1> starts in an <e2>orphanage</e2> and moves to a magical land where the sweets have a sexual subtext."
-6409	"In this beautiful re-imagining, the story [MASK] in an orphanage and [MASK] to a magical land where the sweets have a sexual subtext."
+6409	"In this beautiful re-imagining, the story [MASK] in an orphanage and moves to a magical land where the sweets have a sexual subtext."
 Entity-Origin(e1,e2)
 Comment:
 
@@ -32073,7 +32074,7 @@ Member-Collection(e1,e2)
 Comment:
 
 6416	"The government has spended the following 18 months before the elections in a similar vein - shooting a whole <e1>lead</e1> of Conservative <e2>foxes</e2>, to extend the metaphor - namely Heathrow and Royal Mail privatisation."
-6416	"The government has spended the following 18 months before the elections in a similar vein - [MASK] a whole lead of Conservative foxes, to [MASK] the metaphor - namely Heathrow and Royal Mail privatisation."
+6416	"The government has spended the following 18 months before the elections in a similar vein - [MASK] a whole lead of Conservative foxes, to extend the metaphor - namely Heathrow and Royal Mail privatisation."
 Other
 Comment: Too metaphorical.
 
@@ -32114,7 +32115,8 @@ Comment:
 
 6424	"The project <e1>process</e1> is comprised of a <e2>field study</e2> with Istanbul inhabitants for 4 weeks and presentations to last 8 weeks."
 6424	"The project process is [MASK] of a field study with Istanbul inhabitants for 4 weeks and presentations to last 8 weeks."
-Component-Whole(e2,e1)Comment:
+Component-Whole(e2,e1)
+Comment:
 
 6425	"There are actual world records for the kookiest hat, the longest time a <e1>message</e1> was in a <e2>bottle</e2> at sea, and the tallest scarecrow."
 6425	"There are actual world records for the kookiest hat, the longest time a message [MASK] in a bottle at sea, and the tallest scarecrow."
@@ -32167,7 +32169,7 @@ Cause-Effect(e1,e2)
 Comment:
 
 6435	"The church <e1>leader</e1> made his <e2>comments</e2> as he flew to Cameroon for the first leg of a six-day trip that will also see him travelling to Angola."
-6435	"The church leader [MASK] his comments as he [MASK] to Cameroon for the first leg of a six-day trip that will also see him travelling to Angola."
+6435	"The church leader [MASK] his comments as he flew to Cameroon for the first leg of a six-day trip that will also see him travelling to Angola."
 Product-Producer(e2,e1)
 Comment: (a) is satisfied; modality is outside
 
