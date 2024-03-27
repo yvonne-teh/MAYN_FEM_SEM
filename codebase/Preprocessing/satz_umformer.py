@@ -71,7 +71,6 @@ try:
         print("GPT : " + data + "\n")
         verb = extract_verb(data)
 
-        # don't put wrongly returned sentences by GPT in the dict
         if ' ' in verb:
             continue
 
