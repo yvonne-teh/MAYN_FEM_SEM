@@ -1,8 +1,6 @@
 from nltk.stem import WordNetLemmatizer
 from transformers import pipeline
 import numpy as np
-from softmax_function import softmax_basic
-
 
 
 # BERT maskierten satz geben
@@ -17,6 +15,19 @@ def bert_predict(sentence):
 def get_verb_lemma(verb: str) -> str:
     lemmatizer = WordNetLemmatizer()
     return lemmatizer.lemmatize(verb, pos='v')
+
+
+def softmax_basic(x):
+    e_x = np.exp(x - np.max(x))
+    return e_x / e_x.sum(axis=0)
+
+def softmax_dict(d: dict) -> dict:
+    x = []
+    for entry in d.items():
+        x.append(entry[1])
+    for softmaxed_value, key in zip(softmax_basic(x), d):
+        d[key] = softmaxed_value
+    return d
 
 # mit dicts vergleichen
 def predict_class(bert_predictions, class_dicts):
