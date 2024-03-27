@@ -1,7 +1,7 @@
 from nltk.stem import WordNetLemmatizer
 from transformers import pipeline
 import numpy as np
-from softmax import softmax
+from softmax_function import softmax_basic
 
 
 
@@ -33,8 +33,8 @@ def predict_class(bert_predictions, class_dicts):
         scores.append((score))
         score = 0
     
-    # softmax and sort scores and add labels
-    softmaxed_scores = softmax(np.array(scores))
+    # softmaxen und nach labels sortieren
+    softmaxed_scores = softmax_basic(np.array(scores))
     labeled_scores = []
     for score, label in zip(softmaxed_scores, class_dicts):
         labeled_scores.append([label[1], score])

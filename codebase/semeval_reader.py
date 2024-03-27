@@ -8,14 +8,13 @@ def parse_file_to_list(filename):
         for line in file:
             line = line.strip()
 
-            if count % 4 == 0:  # satz
+            if count % 4 == 0:  # Satz
                 entry['sentence'] = line
-                # entry['sentence'] = line[6:-1]
-            if count % 4 == 1:  # semantische relation
+            if count % 4 == 1:  # Semantische relation
                 entry['sem_rel'] = line
-            if count % 4 == 2:  # kommentar
+            if count % 4 == 2:  # Kommentar
                 entry['comment'] = line[8:-1]
-            if count % 4 == 3:  # leerzeile
+            if count % 4 == 3:  # Leerzeile
                 if entry['sem_rel'] == 'Entity-Destination(e1,e2)' or entry['sem_rel'] == 'Entity-Destination(e2,e1)':
                     entries.append(entry)
                 entry = {}
@@ -25,5 +24,5 @@ def parse_file_to_list(filename):
     return entries
 
 
-# Example usage (assuming the content is in 'input_file.txt'):
-entries = parse_file_to_list('semeval/training/TRAIN_FILE.TXT')
+# Beispiel
+entries = parse_file_to_list('MAYN_FEM_SEM/semeval/training/TRAIN_FILE.TXT')

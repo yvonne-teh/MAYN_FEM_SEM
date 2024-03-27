@@ -6,7 +6,6 @@ client = AsyncOpenAI()
 
 
 async def main(semeval_tuple):
-    # Your existing setup
     system = """
     Find the verb of the sentence that describes the relation between the nouns e1 and e2 and return its lemma.
     """
@@ -14,7 +13,7 @@ async def main(semeval_tuple):
     prompt = semeval_tuple['sentence']
 
     try:
-        # Set a timeout for the request
+        # ein Timeout setzen nach einem Request
         chat_completion = await asyncio.wait_for(
             client.chat.completions.create(
                 messages=[
@@ -23,26 +22,26 @@ async def main(semeval_tuple):
                 ],
                 model="gpt-3.5-turbo-0125",
             ),
-            timeout=10.0  # Timeout in seconds
+            timeout=10.0  # Timeout in Sekunden
         )
         return chat_completion.choices[0].message.content
     except asyncio.TimeoutError:
-        # Handle the case where the request takes too long
+        # Für den Fall, dass die Anfrage zu lange dauert
         print("Request timed out. Skipping...")
-        return 'fail!!'  # Or any other fallback action
+        return 'fail!!'
 
 
 def extract_verb(sentence):
-    # remove to, 3rd person s, ing...
+    # lösche to, 3te Person s, ing...
     if sentence[0:3] == 'to ':
         return sentence[3::]
     if sentence[-1] == 's':
         return sentence[0:-1]
     if sentence[-3:] == 'ing':
-        # test for double consonants before ing:
+        # teste doppel Konsonanten vor ing:
         validate = sentence[-5:-3]
         if validate[0] == validate[1]:
-            # remove one consonant
+            # lösche einen Konsonanten
             sentence = sentence[:-4] + sentence[-3:]
         return sentence[:-3]
     return sentence
@@ -60,7 +59,7 @@ def test_stemmer():
 print(len(semeval_tuples))
 verb_dict = dict()
 
-# get verb dict
+# verb dict bekommen
 try:
     for tuple in semeval_tuples:
 
