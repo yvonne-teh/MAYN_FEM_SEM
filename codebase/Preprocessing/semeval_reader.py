@@ -25,4 +25,4 @@ def parse_file_to_list(filename):
 
 
 # Beispiel
-entries = parse_file_to_list('MAYN_FEM_SEM/semeval/training/TRAIN_FILE.TXT')
+entries = parse_file_to_list('MAYN_FEM_SEM/data/semeval/training/TRAIN_FILE.TXT')
