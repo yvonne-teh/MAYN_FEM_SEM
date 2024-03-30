@@ -1,0 +1,51 @@
+---
+title: "Konfusionsmatrix"
+author: "Matthias Streit"
+date: "2024-03-25"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(readr)
+library(caret)
+```
+
+```{r}
+raw_data <- read.csv2("zero_shot_results_SOFTMAX.csv", header = TRUE, sep = ",")
+
+typeof(raw_data)
+data.frame(raw_data)
+data <- setNames(raw_data, c("Index","Gold","Prediction"))
+data_new <- data                               
+data_new[data_new == "CT "] <- "MT" 
+data_new[data_new == "CC "] <- "CC" 
+data_new[data_new == "CE "] <- "CE" 
+data_new[data_new == "ED "] <- "ED" 
+data_new[data_new == "EO "] <- "EO" 
+data_new[data_new == "IA "] <- "IA" 
+data_new[data_new == "MC "] <- "MC" 
+data_new[data_new == "CW "] <- "CW" 
+data_new[data_new == "MT "] <- "MT" 
+data_new[data_new == "PP "] <- "PP" 
+```
+
+
+```{r}
+Gold        <- data_new$Gold
+Prediction  <- data_new$Prediction
+gold_vector <- as.factor(Gold)
+pred_vector <- as.factor(Prediction)
+View(pred_vector)
+View(gold_vector)
+```
+
+```{r}
+Confusion_Matrix <- confusionMatrix(data = pred_vector, reference = gold_vector)
+
+Confusion_Matrix
+```
+
